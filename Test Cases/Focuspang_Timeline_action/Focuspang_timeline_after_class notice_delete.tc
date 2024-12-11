@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.로그인한다&#xd;
+2.월요일 1교시 진입한다&#xd;
+3.임의의 공지 삭제 버튼 클릭한다</description>
+   <name>Focuspang_timeline_after_class notice_delete</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f13d100-f6e2-475f-9941-882c4e99758f</testCaseGuid>
+</TestCaseEntity>

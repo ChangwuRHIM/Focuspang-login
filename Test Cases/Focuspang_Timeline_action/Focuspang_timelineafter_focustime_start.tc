@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.로그인 한다&#xd;
+2.</description>
+   <name>Focuspang_timelineafter_focustime_start</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a5585a87-a0f1-4c84-b2e4-73788cc0b9dd</testCaseGuid>
+</TestCaseEntity>

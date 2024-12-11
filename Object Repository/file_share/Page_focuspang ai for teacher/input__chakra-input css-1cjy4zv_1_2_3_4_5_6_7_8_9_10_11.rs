@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__chakra-input css-1cjy4zv_1_2_3_4_5_6_7_8_9_10_11</name>
+   <tag></tag>
+   <elementGuidId>37535533-cc9b-4db3-8886-b47401f2baa7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.chakra-input.css-1cjy4zv</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='www.naver.']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>8e78bae1-a2c1-45a7-b1c7-399de9c832ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>링크 주소를 입력해주세요.</value>
+      <webElementGuid>19729378-76cc-4b43-8e00-1b45d121aa23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-input css-1cjy4zv</value>
+      <webElementGuid>fc5c15ba-bcdf-4526-ab68-a877d4c4a308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>www.naver.</value>
+      <webElementGuid>35dbdb70-3dc3-4f62-9926-115ad8944f1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabs-:r4p:--tabpanel-0&quot;)/div[@class=&quot;chakra-stack css-13uls06&quot;]/div[@class=&quot;chakra-stack css-1uodvt1&quot;]/input[@class=&quot;chakra-input css-1cjy4zv&quot;]</value>
+      <webElementGuid>ffc75c99-8801-434d-a354-c1e127af1ead</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='www.naver.']</value>
+      <webElementGuid>94b8b51a-5516-4302-a850-5bfe5151902a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabs-:r4p:--tabpanel-0']/div/div/input</value>
+      <webElementGuid>1b6319b9-c927-421c-87cf-1bc3b844d966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+      <webElementGuid>3b6aa65f-18f6-4a2c-8b2b-7afbf1c8e7f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

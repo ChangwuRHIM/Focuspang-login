@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. https://qa.student.focuspang.ai/login 접속&#xd;
+2. 초대코드 로그인 버튼 클릭&#xd;
+3. 초대코드 입력 (71ea8c71)&#xd;
+4. 다음 버튼 클릭&#xd;
+5. 학번 필드 입력(09876)&#xd;
+6. 이름 입력(자동화)&#xd;
+7. 로그인 버튼 클릭</description>
+   <name>student_login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>984137ce-94e7-47ea-94b0-6f5d0c04b2d8</testCaseGuid>
+</TestCaseEntity>

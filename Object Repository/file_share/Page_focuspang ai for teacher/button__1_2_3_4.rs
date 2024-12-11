@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button__1_2_3_4</name>
+   <tag></tag>
+   <elementGuidId>eb2e61f5-2b67-4a3e-8acd-42e3d751d18f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[17]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>da65bafa-44d6-4a6f-99d5-3a058966cde6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>93bd653e-74a4-4189-bb4c-59b23a4ddd5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-button css-10qoo3g</value>
+      <webElementGuid>3261090c-8e24-4e7f-b7b5-ccaee38c621d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>파일 공유</value>
+      <webElementGuid>beb82bdf-6428-4b7b-be95-6cc96501d1f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabs-:r4p:--tabpanel-1&quot;)/div[@class=&quot;chakra-stack css-13uls06&quot;]/div[@class=&quot;chakra-stack css-1uodvt1&quot;]/button[@class=&quot;chakra-button css-10qoo3g&quot;]</value>
+      <webElementGuid>6ad028a6-a9ea-42c5-a730-10917e765aa4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[17]</value>
+      <webElementGuid>747cfdd3-ef3d-4adb-9810-39b629abbfde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabs-:r4p:--tabpanel-1']/div/div/button</value>
+      <webElementGuid>60b63a13-7a1f-4608-93e3-e8a668e0cc19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='링크 공유'])[1]/following::button[1]</value>
+      <webElementGuid>0a427e6a-aded-49f8-b39e-9e153bff5957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='파일'])[1]/following::button[2]</value>
+      <webElementGuid>61d9b16c-d802-42bd-b2b9-df7adbdf5737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='학생의 사용을 통제할 앱과 웹 사이트'])[1]/preceding::button[1]</value>
+      <webElementGuid>b55ff4e6-ba63-4010-9ab8-6ebaf74377c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='앱/웹 제어 설정 추가'])[1]/preceding::button[2]</value>
+      <webElementGuid>fb798bf1-007a-4ad6-8641-2ab9ec2c0b17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='파일 공유']/parent::*</value>
+      <webElementGuid>10126c8c-f984-4b30-ad47-927c708245c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/button</value>
+      <webElementGuid>a2767caf-6c28-4b89-9046-af5784b6b4ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

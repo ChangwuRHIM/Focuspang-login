@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. 왼쪽 설정 아이콘 클릭&#xd;
+2. 로그아웃 버튼 클릭&#xd;
+3. 알럿 팝업 확인 클릭</description>
+   <name>student_logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>798c89a0-3105-494d-bd5c-150150cf37f1</testCaseGuid>
+</TestCaseEntity>

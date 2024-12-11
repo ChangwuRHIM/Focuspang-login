@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__chakra-input css-1cjy4zv_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>ddfcce27-ca24-4fb8-bd33-e54bef69ef74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.chakra-input.css-1cjy4zv</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='www']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6729f66c-54fc-4e57-8b8f-73b2027d4f9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>링크 주소를 입력해주세요.</value>
+      <webElementGuid>8e167505-b28a-40bf-94b5-e9d0e19df4e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-input css-1cjy4zv</value>
+      <webElementGuid>f3d375c0-01bf-4379-8988-c7e434e09f88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>www</value>
+      <webElementGuid>11a02934-92b7-47c1-a4c3-a186fccdd50a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabs-:r4p:--tabpanel-0&quot;)/div[@class=&quot;chakra-stack css-13uls06&quot;]/div[@class=&quot;chakra-stack css-1uodvt1&quot;]/input[@class=&quot;chakra-input css-1cjy4zv&quot;]</value>
+      <webElementGuid>db8f54fd-44a4-4b9c-bc03-a68e917ac5d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='www']</value>
+      <webElementGuid>bedf75c2-0292-440b-b1f9-1f875bd791cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabs-:r4p:--tabpanel-0']/div/div/input</value>
+      <webElementGuid>58b4fb5c-2b66-4069-9afe-e28883299b43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+      <webElementGuid>8fa5eb7a-fe94-459c-a9f9-642084cf843c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

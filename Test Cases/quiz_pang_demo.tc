@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>데모</description>
+   <name>quiz_pang_demo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da06b642-7018-4127-9395-096fb05d06ed</testCaseGuid>
+</TestCaseEntity>

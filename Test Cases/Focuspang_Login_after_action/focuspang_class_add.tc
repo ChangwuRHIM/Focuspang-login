@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. 포커스팡 로그인&#xd;
+2. 수업 추가 클릭&#xd;
+3. 과목명 필드 클릭 &quot;테스트&quot; 입력&#xd;
+4. 요일 드롭다운 클릭&#xd;
+5. 수요일 선택&#xd;
+6. 만들기 버튼 클릭</description>
+   <name>focuspang_class_add</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>31b8d4e1-54d5-40e8-a533-21c69b1f32ab</testCaseGuid>
+</TestCaseEntity>

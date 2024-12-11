@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>등록버튼</description>
+   <name>submitAt_input</name>
+   <tag></tag>
+   <elementGuidId>5151d4bb-6684-4bed-b87f-5d9026820edf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'datetime-local']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;field-:rv:&quot;]&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>datetime-local</value>
+      <webElementGuid>b94f608f-2d25-4e87-8667-367650a93d7a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

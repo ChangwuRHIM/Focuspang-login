@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.로그인한다&#xd;
+2.월요일 1교시 진입한다&#xd;
+3.+공지 추가 버튼 클릭한다&#xd;
+4.제목 입력필드 클릭하여 '테스트공지' 입력한다&#xd;
+5.내용입력필드 클릭하여 '테스트' 입력한다&#xd;
+6.등록 버튼 클릭한다</description>
+   <name>Focuspang_timeline_after_Class notice_new_add</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5334e8f4-2a9f-487c-aedd-fad00d4ad2f4</testCaseGuid>
+</TestCaseEntity>

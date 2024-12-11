@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. 포커스팡 로그인&#xd;
+2. 포커스팡 메뉴얼 버튼 클릭&#xd;
+3. 영어,인도네시아,일본어,한국어 각 언어 화면 진입</description>
+   <name>Focuspang_Manual_action</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bfc5e917-5097-437b-849e-8861f0984b74</testCaseGuid>
+</TestCaseEntity>

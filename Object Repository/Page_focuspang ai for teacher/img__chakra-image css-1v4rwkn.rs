@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__chakra-image css-1v4rwkn</name>
+   <tag></tag>
+   <elementGuidId>23ae83e6-0dd2-443c-a93f-8f8c89096e98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.chakra-image.css-1v4rwkn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chakra-modal--body-:r3p:']/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>457128d8-6712-49f1-a4a8-5b8d88d142c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/quizpang_select/quiz.png</value>
+      <webElementGuid>8dbe0f7a-3528-4db5-a182-8fe07afb29e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-image css-1v4rwkn</value>
+      <webElementGuid>eb312a0a-c90a-43d4-aa0c-64e78808233d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-modal--body-:r3p:&quot;)/div[@class=&quot;chakra-stack css-1jery12&quot;]/div[@class=&quot;css-1iiz02i&quot;]/img[@class=&quot;chakra-image css-1v4rwkn&quot;]</value>
+      <webElementGuid>6f18b10e-3f89-4b02-b28d-331ed3caa8b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chakra-modal--body-:r3p:']/div/div/img</value>
+      <webElementGuid>800a62b6-dcbf-4a82-948c-116dcfa01bc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/img</value>
+      <webElementGuid>2708e2b1-adf9-4619-b478-894eeabeb8fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/quizpang_select/quiz.png']</value>
+      <webElementGuid>c6656587-fc2b-42a9-bde5-154c0f4ef57a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

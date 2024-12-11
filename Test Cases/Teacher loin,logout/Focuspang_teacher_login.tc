@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>포커스팡 선생님 로그인 테스트입니다</description>
+   <name>Focuspang_teacher_login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5aacbfb3-724e-4a81-a56c-136b4a5d452a</testCaseGuid>
+</TestCaseEntity>

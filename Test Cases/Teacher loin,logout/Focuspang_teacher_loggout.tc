@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ad</description>
+   <name>Focuspang_teacher_loggout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5b3239e4-0a0c-4936-8c52-e74a5b80c802</testCaseGuid>
+</TestCaseEntity>

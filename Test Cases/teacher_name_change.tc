@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.로그인 한다&#xd;
+2.왼쪽 설정 아이콘 클릭한다&#xd;
+3.이름 변경한다&#xd;
+4.정보 변경 버튼 클릭한다</description>
+   <name>teacher_name_change</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>087d02ed-0785-4adb-bbf8-9fa7e38e2a6c</testCaseGuid>
+</TestCaseEntity>

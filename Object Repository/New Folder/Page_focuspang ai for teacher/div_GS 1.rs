@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_GS 1</name>
+   <tag></tag>
+   <elementGuidId>c2bb5681-bfe7-43c3-b1d3-4268834e982b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.chakra-stack.css-3tfspr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fa751d7c-1136-4b10-9eed-56a03cb44f54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-stack css-3tfspr</value>
+      <webElementGuid>dabaa9ab-ca13-4dee-a89d-a02c7cdbf9de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>스마트한 오프라인 수업 운영과 학생케어 서비스로그인로그인에 실패했습니다. 이메일 또는 비밀번호를 확인해주세요.회원가입아이디/비밀번호 찾기도와주세요GS인증 1등급</value>
+      <webElementGuid>07d68f54-9087-4048-b772-63c2f447287c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;chakra-container css-11vl7h3&quot;]/div[@class=&quot;chakra-stack css-3tfspr&quot;]</value>
+      <webElementGuid>532eca92-39ed-4d38-bb45-e7d779568e1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>9e854f67-1e62-4fd8-a263-6ebde929df85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

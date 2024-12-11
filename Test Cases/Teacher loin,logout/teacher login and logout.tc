@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>teacher login and logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7f557ba5-f23e-4a9c-9e6a-73d5d47b2e01</testCaseGuid>
+</TestCaseEntity>

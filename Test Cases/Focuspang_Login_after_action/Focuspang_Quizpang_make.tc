@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. 포커스팡 로그인&#xd;
+2. 퀴즈팡 관리 버튼 클릭&#xd;
+3. +퀴즈 만들기 클릭&#xd;
+4. 퀴즈 클릭&#xd;
+5. 퀴즈 이름 필드 클릭 하여 '자동화테스트' 입력&#xd;
+6. 문제 필드 클릭하여 '자동화' 입력&#xd;
+7. 지문 필드 클릭하여 '자동화지문' 입력&#xd;
+8. 저장하기 버튼 클릭</description>
+   <name>Focuspang_Quizpang_make</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5279f795-036d-4e0b-8333-78e130e3bc0d</testCaseGuid>
+</TestCaseEntity>

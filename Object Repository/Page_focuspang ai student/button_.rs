@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>64d371c7-6a26-45c7-b455-1089f7b9090d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.chakra-button.css-7jwl4z</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>26eb8502-901f-4343-b04e-053f22ceed97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>827da78a-15a5-4afa-958c-948c60d671c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-button css-7jwl4z</value>
+      <webElementGuid>9e4e3fb0-1414-43a7-a497-a1fc2bc67b4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>초대코드 로그인</value>
+      <webElementGuid>6fd9d935-df4a-4e19-a5ba-da8d8e87493d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;chakra-container css-8tpg9m&quot;]/div[@class=&quot;css-cqgmo0&quot;]/div[@class=&quot;chakra-card css-p0o4gw&quot;]/div[@class=&quot;chakra-card__body css-1idwstw&quot;]/div[@class=&quot;chakra-stack css-15ly336&quot;]/button[@class=&quot;chakra-button css-7jwl4z&quot;]</value>
+      <webElementGuid>9410af5b-9b61-46e6-89c6-e26d5949c163</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>6b8d8893-fa54-4788-9300-c1b438c486af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='초대코드'])[1]/following::button[1]</value>
+      <webElementGuid>d7f2c928-88d4-4834-b23c-cc4da86cc4a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='포커스팡 ai에 오신 것을 환영합니다!'])[1]/following::button[1]</value>
+      <webElementGuid>49b8f09f-d98b-4596-ad9a-e56244461e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='도와주세요'])[1]/preceding::button[1]</value>
+      <webElementGuid>11f18843-fdee-4ea3-8db3-80d81eb36690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='초대코드 로그인']/parent::*</value>
+      <webElementGuid>3eba6e90-4bf8-4480-bb8e-5bf06d698bf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>7dfd1cac-4aa9-40c9-adaa-539309c73582</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '초대코드 로그인' or . = '초대코드 로그인')]</value>
+      <webElementGuid>b9cc2c67-d136-4f68-8770-3362aca3ab19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
