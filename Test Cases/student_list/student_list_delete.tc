@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.로그인한다&#xd;
+2.월요일 1교시 진입&#xd;
+3.학생 명단 진입 &#xd;
+4.학생 명단에서 내보내기 버튼클릭한다&#xd;
+5.팝업에서 내보내기 버튼클릭한다.</description>
+   <name>student_list_delete</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7f1ef642-c3c6-47fc-aba8-34526caa65bf</testCaseGuid>
+</TestCaseEntity>

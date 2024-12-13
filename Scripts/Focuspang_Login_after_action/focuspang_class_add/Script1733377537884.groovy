@@ -19,15 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Teacher loin,logout/Focuspang_teacher_login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_focuspang ai for teacher/button__1_2_3'))
+WebUI.click(findTestObject('Object Repository/class_add/class_add_button'))
 
-WebUI.setText(findTestObject('Object Repository/Page_focuspang ai for teacher/input__subjectName'), '테스트')
+WebUI.setText(findTestObject('Object Repository/class_add/input__subjectName'), '테스트')
 
-WebUI.click(findTestObject('Object Repository/dropdown_button'))
+WebUI.click(findTestObject('Object Repository/class_add/dropdown_button'))
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/dropdown_weekdayoption'), 3)
+WebUI.waitForElementVisible(findTestObject('Object Repository/class_add/dropdown_weekdayoption'), 3)
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/dropdown_button'), '수요일', false)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/class_add/dropdown_button'), '수요일', false)
 
-WebUI.click(findTestObject('Object Repository/focupang_class_add/Page_focuspang ai for teacher/button__1_2_3_4'))
+WebUI.click(findTestObject('Object Repository/class_add/submit_create_timetable_button'))
 

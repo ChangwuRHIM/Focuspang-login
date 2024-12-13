@@ -19,19 +19,19 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Teacher loin,logout/Focuspang_teacher_login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_focuspang ai for teacher/a_'))
+WebUI.click(findTestObject('Object Repository/Manual/Manual_button'))
 
 WebUI.switchToWindowTitle('focuspang ai 3.0')
 
-WebUI.click(findTestObject('Object Repository/Page_focuspang ai 3.0/a_English'))
+WebUI.click(findTestObject('Object Repository/Manual/a_English'))
 
-WebUI.click(findTestObject('Object Repository/Page_focuspang ai 3.0/a_Indonesian'))
+WebUI.click(findTestObject('Object Repository/Manual/a_Indonesian'))
 
-WebUI.click(findTestObject('Object Repository/Page_focuspang ai 3.0/i_Kami sedang mempersiapkan pelayanan dalam_910166'))
+WebUI.click(findTestObject('Object Repository/Manual/i_Kami sedang mempersiapkan pelayanan dalam_910166'))
 
-WebUI.click(findTestObject('Object Repository/Page_focuspang ai 3.0/a_Japanese'))
+WebUI.click(findTestObject('Object Repository/Manual/a_Japanese'))
 
-WebUI.click(findTestObject('Object Repository/Page_focuspang ai 3.0/i__fa-solid fa-angle-left'))
+WebUI.click(findTestObject('Object Repository/Manual/i__fa-solid fa-angle-left'))
 
-WebUI.click(findTestObject('Object Repository/Page_focuspang ai 3.0/a_Korean'))
+WebUI.click(findTestObject('Object Repository/Manual/a_Korean'))
 

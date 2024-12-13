@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_11-1</name>
+   <tag></tag>
+   <elementGuidId>ad684c26-6f1f-48a9-aef8-79146b0d3e55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.chakra-stack.css-1xy0ri1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='수업 추가'])[1]/following::div[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5f4cbc79-ba53-4210-9d7b-17341f8f249a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-stack css-1xy0ri1</value>
+      <webElementGuid>ab3753f9-0b96-42f4-a022-706ef0f9760b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>11-1자동화테스트</value>
+      <webElementGuid>b0984b31-1cd1-4a89-8c51-31e9e5a217ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;css-wrghvn&quot;]/div[@class=&quot;chakra-container css-10wiq0h&quot;]/div[@class=&quot;css-1mc2bby&quot;]/div[@class=&quot;css-10ft286&quot;]/div[1]/div[@class=&quot;chakra-container css-w8e4xc&quot;]/div[@class=&quot;chakra-stack css-153vwuu&quot;]/div[@class=&quot;css-6pkm7c&quot;]/div[@class=&quot;chakra-stack css-1f4tg3a&quot;]/div[@class=&quot;chakra-stack css-1m7ve9i&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;chakra-card css-157gzc7&quot;]/div[@class=&quot;chakra-stack css-1xy0ri1&quot;]</value>
+      <webElementGuid>6ae88254-139c-4133-983d-c7a74527d6a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='수업 추가'])[1]/following::div[7]</value>
+      <webElementGuid>8291075e-e404-4e88-95cd-552bb0381419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='로그아웃'])[1]/following::div[15]</value>
+      <webElementGuid>69aea20f-8724-4a51-879a-5b36a358691a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>d2ee836a-b286-4a4a-a076-93defbdbf7b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

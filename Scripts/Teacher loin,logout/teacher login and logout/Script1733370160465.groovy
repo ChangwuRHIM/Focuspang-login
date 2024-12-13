@@ -17,29 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('Teacher loin,logout/Focuspang_teacher_login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('https://qa.teacher.focuspang.ai/ko/login')
+WebUI.click(findTestObject('Object Repository/teacher-login_logout/Page_focuspang ai for teacher/setting_button'))
 
-WebUI.click(findTestObject('Object Repository/Page_focuspang ai for teacher/div_'))
-
-WebUI.click(findTestObject('Object Repository/Page_focuspang ai for teacher/button_'))
-
-WebUI.click(findTestObject('Object Repository/Page_focuspang ai for teacher/div__1'))
-
-WebUI.click(findTestObject('Object Repository/Page_focuspang ai for teacher/button__1'))
-
-WebUI.setText(findTestObject('Object Repository/Page_focuspang ai for teacher/input__id'), 'changwu_rhim@focuspang.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_focuspang ai for teacher/input__password'), 'MpEqHZHV+RM=')
-
-WebUI.click(findTestObject('Object Repository/Page_focuspang ai for teacher/button__1_2'))
-
-WebUI.click(findTestObject('Object Repository/Page_focuspang ai for teacher/button__chakra-button css-2kj2c2'))
-
-WebUI.click(findTestObject('Object Repository/Page_focuspang ai for teacher/button__1_2_3'))
-
-WebUI.delay(3)
+WebUI.click(findTestObject('Object Repository/teacher-login_logout/Page_focuspang ai for teacher/button__1_2'))
 
 WebUI.acceptAlert()
-

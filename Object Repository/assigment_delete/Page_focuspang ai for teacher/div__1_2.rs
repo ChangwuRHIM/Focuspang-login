@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__1_2</name>
+   <tag></tag>
+   <elementGuidId>92c84071-d723-46aa-a55f-5dfb4ccf7357</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='퀴즈팡'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'assignment']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d1f6a320-8d7a-4aa4-ab2f-8c6d198852f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>group</value>
+      <webElementGuid>fb3e4b4f-48db-4f1f-a1f3-bc736bc89c96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-f1yw6l</value>
+      <webElementGuid>223ce6d8-d967-4c3f-a968-383fb810f5e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>과제 관리</value>
+      <webElementGuid>789db4d6-4343-466f-9664-bcacccd31f7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;css-wrghvn&quot;]/div[@class=&quot;chakra-container css-10wiq0h&quot;]/div[@class=&quot;css-1mc2bby&quot;]/div[@class=&quot;css-etfmaf&quot;]/div[@class=&quot;css-1lcejj2&quot;]/a[@class=&quot;css-7fj8q3&quot;]/div[@class=&quot;css-f1yw6l&quot;]</value>
+      <webElementGuid>1ef4ad14-1c0b-4368-b878-0ec395ecda1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>assignment</value>
+      <webElementGuid>002ee381-3c84-4445-a36c-bb049db74796</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='퀴즈팡'])[1]/following::div[1]</value>
+      <webElementGuid>d2d731e5-b375-43b6-a057-2970e8d1c5d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='포커스타임'])[1]/following::div[2]</value>
+      <webElementGuid>aaf659a0-3f29-4fa6-ac63-5c5997944d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='대시보드'])[1]/preceding::div[1]</value>
+      <webElementGuid>298952c7-7019-4555-a4d3-d38b077ac86e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/div</value>
+      <webElementGuid>88c1b6ca-fab9-4221-8d63-0e964d8ba19f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

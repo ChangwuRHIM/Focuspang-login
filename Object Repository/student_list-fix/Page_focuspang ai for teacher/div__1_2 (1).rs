@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__1_2 (1)</name>
+   <tag></tag>
+   <elementGuidId>057dce99-7b58-4ca9-bd65-c75c9375e502</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='대시보드'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>31edcda7-edec-4c21-9ad3-e45b03ced5c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>group</value>
+      <webElementGuid>33f2cc46-af83-4400-8474-fa21960f2975</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-f1yw6l</value>
+      <webElementGuid>e1fffbe2-010b-4153-9df1-e560f4e1981d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>학생 명단</value>
+      <webElementGuid>a0c990e5-0dca-435b-80f1-70279c2d82fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;css-wrghvn&quot;]/div[@class=&quot;chakra-container css-10wiq0h&quot;]/div[@class=&quot;css-1mc2bby&quot;]/div[@class=&quot;css-etfmaf&quot;]/div[@class=&quot;css-1lcejj2&quot;]/a[@class=&quot;css-7fj8q3&quot;]/div[@class=&quot;css-f1yw6l&quot;]</value>
+      <webElementGuid>0b861584-45a4-4d51-9547-360cdfb336d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>roster</value>
+      <webElementGuid>7b748560-ca0d-4d55-9428-66a2cf1dea26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='대시보드'])[1]/following::div[1]</value>
+      <webElementGuid>b22cd33e-30ae-47de-8fcd-47adc51a0c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='과제 관리'])[1]/following::div[2]</value>
+      <webElementGuid>da4ae025-3d47-4377-99ff-b6ad76c7e00d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='모둠 활동'])[1]/preceding::div[1]</value>
+      <webElementGuid>189f283f-08f1-4ed1-a541-227f5a3039c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[7]/div</value>
+      <webElementGuid>c4a1c174-eddc-4fad-9540-2f6fc3a35a77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

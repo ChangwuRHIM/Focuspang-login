@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>2a359b7e-9ce0-4320-8494-121e184f1f4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-w0crzw</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chakra-modal--body-:R6kvf5t5ufja:']/div[2]/label/span[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>14d99d34-4192-42c4-aedb-3c15db80e8e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-w0crzw</value>
+      <webElementGuid>65795b51-9e0f-40b9-87f7-7409fe182bb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>다시 보지 않기</value>
+      <webElementGuid>f56ddd74-abdf-4da4-af66-f9be748d03a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-modal--body-:R6kvf5t5ufja:&quot;)/div[@class=&quot;chakra-stack css-11bebky&quot;]/label[@class=&quot;chakra-checkbox css-8efisn&quot;]/span[@class=&quot;chakra-checkbox__label css-r90m2q&quot;]/div[@class=&quot;css-w0crzw&quot;]</value>
+      <webElementGuid>9ee61f33-d90b-45fd-950c-3346b6d5d189</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chakra-modal--body-:R6kvf5t5ufja:']/div[2]/label/span[2]/div</value>
+      <webElementGuid>0760d997-4a08-45dc-8220-c895e81e1111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='도와주세요'])[1]/following::div[19]</value>
+      <webElementGuid>46a9c908-4eec-4a87-bfbc-b1b1d8ab635f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='아이디/비밀번호 찾기'])[1]/following::div[19]</value>
+      <webElementGuid>afc6fc01-040f-42c0-bea2-c36a18275a0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='닫기'])[1]/preceding::div[1]</value>
+      <webElementGuid>917d7625-a69e-4aa2-b869-2bb90dd7f7f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='다시 보지 않기']/parent::*</value>
+      <webElementGuid>a9888386-cc21-4604-86b3-75c9f3247f62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div</value>
+      <webElementGuid>cd6c9e53-c64e-4f57-baad-d945d047d806</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

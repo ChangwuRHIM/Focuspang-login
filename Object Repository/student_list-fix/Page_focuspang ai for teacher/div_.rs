@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>e02d0b97-a78c-4932-847c-dfd1ba45d56e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.chakra-stack.css-11ehgu5 > label.chakra-checkbox.css-8efisn > span.chakra-checkbox__label.css-r90m2q > div.css-w0crzw</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chakra-modal--body-:R7kvf5t5ufja:']/footer/div/label/span[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a89da0a6-e9dd-4543-8fe5-da38977afe19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-w0crzw</value>
+      <webElementGuid>ac167cf6-d4d4-42c8-beab-fe12614abf6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>다시 보지 않기</value>
+      <webElementGuid>4953c1de-8171-46b2-b51b-2949c46c572e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-modal--body-:R7kvf5t5ufja:&quot;)/footer[@class=&quot;chakra-modal__footer css-16ltw6x&quot;]/div[@class=&quot;chakra-stack css-11ehgu5&quot;]/label[@class=&quot;chakra-checkbox css-8efisn&quot;]/span[@class=&quot;chakra-checkbox__label css-r90m2q&quot;]/div[@class=&quot;css-w0crzw&quot;]</value>
+      <webElementGuid>acb00be9-818f-4488-8109-d0b1d7171ea9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chakra-modal--body-:R7kvf5t5ufja:']/footer/div/label/span[2]/div</value>
+      <webElementGuid>8779ffc1-53a0-4b24-aed0-36fa09ba1898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='기기 부팅 후 일정 시간이 지나면 꺼지며 Android 팩토리 모드로 진입하는 현상'])[1]/following::div[2]</value>
+      <webElementGuid>f058f266-9e86-4a2e-beca-22e9bcf28ea0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='굿노트와 같은 특정 앱의 사용 불가 현상'])[1]/following::div[2]</value>
+      <webElementGuid>633d3c99-3613-4f46-8afb-6c911bee27c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='닫기'])[2]/preceding::div[1]</value>
+      <webElementGuid>64823502-8a36-407d-982e-22adb6b5252e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/label/span[2]/div</value>
+      <webElementGuid>705cf623-870a-4a2d-bfe4-e8830cd0dedd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

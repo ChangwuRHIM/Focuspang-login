@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.로그인한다&#xd;
+2.월요일 1교시 진입&#xd;
+3.포커스타임 진입 &#xd;
+4.포커스타임 기능들 선택해 본다.&#xd;
+5.포커스타임 종료</description>
+   <name>Focustime_features</name>
+   <tag>정상적으로 동작되어야 한다.</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>68e714d6-1246-4839-85cd-004e7d2d7c1c</testCaseGuid>
+</TestCaseEntity>

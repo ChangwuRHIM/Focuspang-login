@@ -6,12 +6,16 @@
    <elementGuidId>15ff057b-cc83-4dbf-a95e-753258262c20</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value>button.chakra-button.css-uswzaw > a</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//a[contains(text(),'포커스팡 즉문즉답')]</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>button.chakra-button.css-uswzaw > a</value>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'qna-button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -23,15 +27,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>7d2e07a9-8f2e-4245-b0d3-e8e895aa5459</webElementGuid>
+      <webElementGuid>2a449976-44a0-4e18-b356-4ed822e1d8e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
       <value>https://focuspang.com/ask.html</value>
-      <webElementGuid>f6e698b5-aa91-4205-80b1-3ce00c8c584f</webElementGuid>
+      <webElementGuid>cfa5fb69-9b52-49ad-8b49-c343f0c9fe7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +43,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_black</value>
-      <webElementGuid>a55014d0-41f5-4422-9ffd-a741fbd77273</webElementGuid>
+      <webElementGuid>713d723d-e41c-460d-80ea-29d7617aff1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +51,7 @@
       <name>text</name>
       <type>Main</type>
       <value>포커스팡 즉문즉답</value>
-      <webElementGuid>b0b3017a-33d6-458f-805b-1ad21037a258</webElementGuid>
+      <webElementGuid>6bdfb0ef-424a-4bbb-9f09-9503edb812ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +59,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;css-wrghvn&quot;]/div[@class=&quot;chakra-container css-10wiq0h&quot;]/div[@class=&quot;css-1mc2bby&quot;]/div[@class=&quot;css-etfmaf&quot;]/div[@class=&quot;css-hwhsf1&quot;]/div[@class=&quot;chakra-stack css-m3uvdc&quot;]/button[@class=&quot;chakra-button css-uswzaw&quot;]/a[1]</value>
-      <webElementGuid>359c7268-4d80-4b78-938e-972c10fd52d3</webElementGuid>
+      <webElementGuid>2303d4a6-3576-4c4c-9164-8714103db3c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>qna-button</value>
+      <webElementGuid>04521f58-d40e-414d-bc6a-ec4471e50823</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +75,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'포커스팡 즉문즉답')]</value>
-      <webElementGuid>2d970d26-d7a3-465d-adac-8fe7baebf434</webElementGuid>
+      <webElementGuid>30d14860-3c81-44f7-85b0-e5c6fb9108b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +83,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='수업 외 앱/웹 제어 관리'])[1]/following::a[1]</value>
-      <webElementGuid>97ef8fe7-4b19-4645-b793-7f95cebff087</webElementGuid>
+      <webElementGuid>15207037-ab50-4236-9326-8f0ab0b2ad29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='퀴즈팡 관리'])[1]/following::a[2]</value>
-      <webElementGuid>b7b9eb2a-f4ba-4b27-82f1-43bccb496617</webElementGuid>
+      <webElementGuid>9d0cb71a-1a0a-4323-8d5f-a0f269cdac87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='포커스팡 매뉴얼'])[1]/preceding::a[1]</value>
-      <webElementGuid>bc49ae9f-0336-4011-9362-e8de2eb79e99</webElementGuid>
+      <webElementGuid>b5f56350-e8c0-400b-ac15-98d12527e42d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='임'])[2]/preceding::a[3]</value>
-      <webElementGuid>d2181d1f-8855-4d1c-a9b3-5201dff2b139</webElementGuid>
+      <webElementGuid>740c95a6-e14d-4dae-af77-3ecf6425b314</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='포커스팡 즉문즉답']/parent::*</value>
-      <webElementGuid>e4944c2b-c836-4e09-bfff-34994fa3d76c</webElementGuid>
+      <webElementGuid>6ff73306-f6ed-4a17-aeb5-79f32be526b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +123,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://focuspang.com/ask.html')]</value>
-      <webElementGuid>70edfbfc-7304-44bd-8384-a549bcbd2de5</webElementGuid>
+      <webElementGuid>7587e4f9-e24d-4fa6-9164-4b2033af32de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +131,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/a</value>
-      <webElementGuid>4f0ba13c-f184-4b1c-9301-2672f32893d4</webElementGuid>
+      <webElementGuid>633ebd10-e4cc-4eb9-803a-f31dec9027a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +139,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://focuspang.com/ask.html']</value>
-      <webElementGuid>57e7fc0d-abff-46ed-9b92-180dfd24a422</webElementGuid>
+      <webElementGuid>dae482bf-7aec-4116-bc90-2e5afbc41518</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

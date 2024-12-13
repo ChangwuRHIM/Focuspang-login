@@ -7,11 +7,14 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='field-:r52:']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'filelink-title-input']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -23,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>45314696-e0ca-48db-8bde-fec1b610f633</webElementGuid>
+      <webElementGuid>6889b196-07b4-41e9-8290-ee6b4b303936</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +34,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>20</value>
-      <webElementGuid>378ee6ec-3dd7-43d7-af58-d5717506f998</webElementGuid>
+      <webElementGuid>15b7b2f5-cbdb-4c7d-ae8e-af55ae22ec40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,15 +42,15 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>링크 제목을 입력해주세요.</value>
-      <webElementGuid>9b3ba258-9e88-45f2-9076-b6202755b9b0</webElementGuid>
+      <webElementGuid>23bb7690-3528-4080-bdb6-d89f2a16237e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>field-:r52:</value>
-      <webElementGuid>719a9431-e3ee-456f-94e6-759646cdd5e8</webElementGuid>
+      <webElementGuid>3420f43c-2a62-4cb9-bd16-faebd8f7ab9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +58,7 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-input css-597838</value>
-      <webElementGuid>8b2861aa-6b2f-4eb0-92d1-67c1f50f37cc</webElementGuid>
+      <webElementGuid>33a08c64-a6b0-4b83-83f2-d6a34d7b7e83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +66,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>b6be1357-6fcf-4e6b-99a0-0c613880803d</webElementGuid>
+      <webElementGuid>4bfb0f4a-f20e-4728-96a0-033d6293848d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +74,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;field-:r52:&quot;)</value>
-      <webElementGuid>b45a7310-d934-4bbe-8498-273e4e5ea5b0</webElementGuid>
+      <webElementGuid>40f94f20-c7ef-4c8d-a4ba-f8b4dbfa6be9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>filelink-title-input</value>
+      <webElementGuid>65c3e60c-eef7-4041-9803-568cb6e2407d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +90,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='field-:r52:']</value>
-      <webElementGuid>8125e018-f192-4174-a9e6-200373e38247</webElementGuid>
+      <webElementGuid>fa52591c-7205-45bb-87d1-d2dc7bd04950</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='tabs-:r4p:--tabpanel-0']/div/div/div/div/input</value>
-      <webElementGuid>c41c1304-b1b9-4dcf-955e-83eab398c498</webElementGuid>
+      <webElementGuid>e7bfb796-6b0d-4ccb-a7a3-6613cceab43b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div/input</value>
-      <webElementGuid>308c8174-c02c-4da1-8dbb-b10d39436040</webElementGuid>
+      <webElementGuid>718b15dd-71a9-40f2-b153-b412782a70a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'field-:r52:']</value>
-      <webElementGuid>b7e2e778-432c-411f-b8d1-f932dc8e4644</webElementGuid>
+      <webElementGuid>3ee3e4a6-82e6-4bfb-87d9-67981041fb7f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

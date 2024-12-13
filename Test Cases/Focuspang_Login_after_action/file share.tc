@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.로그인 한다&#xd;
+2.월요일 1교시 클릭&#xd;
+3.포커스 타임 클릭&#xd;
+4.↓학생에게 자료 공유하기 클릭&#xd;
+5.링크 주소:www.naver.com 입력&#xd;
+6.링크 제목 네이버 입력&#xd;
+7.링크 공유 버튼 클릭&#xd;
+8.파일 탭 클릭</description>
+   <name>file share</name>
+   <tag>모두 정상적으로 동작한다.</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e90463d6-9ee3-4e49-a97f-f8f6d495eaca</testCaseGuid>
+</TestCaseEntity>

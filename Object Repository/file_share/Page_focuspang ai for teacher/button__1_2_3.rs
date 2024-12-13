@@ -7,11 +7,14 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//button[@id='tabs-:r4p:--tab-1']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-index = '1' and (text() = '파일' or . = '파일')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -23,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ec767695-1069-424e-b791-c1343ef0fc2f</webElementGuid>
+      <webElementGuid>8e096f9f-5ca2-4978-84f6-fafb5f437216</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0947b808-1a3b-43a5-9907-673a29959ad9</webElementGuid>
+      <webElementGuid>1fb1f52d-57b5-491c-b053-ecb83615b14e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,15 +42,15 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e5671f77-0ae4-4a1e-b8dc-622c4fb7d740</webElementGuid>
+      <webElementGuid>098f260b-6685-46b9-bc8e-8a2dc6e89b1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>tabs-:r4p:--tab-1</value>
-      <webElementGuid>c54e8fe7-c79a-48f4-aaf5-6f24036d598f</webElementGuid>
+      <webElementGuid>8a5b7f50-aaed-43ee-89ff-3a3820b2c015</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +58,7 @@
       <name>role</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>445a9d8b-b4d3-4283-949d-4e539733ea4d</webElementGuid>
+      <webElementGuid>0f6d70b6-bade-4c32-8c8d-d51d40919937</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +66,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>c8793fe0-5437-44b8-b167-b0d285c94a90</webElementGuid>
+      <webElementGuid>1d7200e7-9281-4a4f-945b-a12cc340cb20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +74,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>a9b25890-b8c9-42c6-ae2d-bdac5c26a295</webElementGuid>
+      <webElementGuid>a4e74f25-4c9b-4a63-94f8-11d0156d8837</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +82,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>tabs-:r4p:--tabpanel-1</value>
-      <webElementGuid>4ebc0be2-66b1-462b-85a0-2506adc1d753</webElementGuid>
+      <webElementGuid>7ee112e2-63b8-42bf-9297-bef387f37c24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,23 +90,23 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-tabs__tab css-ermp46</value>
-      <webElementGuid>5e6a4c84-946b-4f78-8d04-b1a6679b07cb</webElementGuid>
+      <webElementGuid>53e19d57-3f19-4b75-99f9-5d0789cc55d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-index</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>24607a86-1ddf-4521-9f23-37adb80b5384</webElementGuid>
+      <webElementGuid>0672dcc1-6e81-46db-ab9d-3db68d509bcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
       <value>파일</value>
-      <webElementGuid>230f1461-ead9-48ef-824a-2775e35bd8a2</webElementGuid>
+      <webElementGuid>2790905c-ba30-4b7c-a64a-909cebacb46a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -111,7 +114,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tabs-:r4p:--tab-1&quot;)</value>
-      <webElementGuid>6ff232bc-071f-4b7d-9062-0e66bc73dbc1</webElementGuid>
+      <webElementGuid>f3f08af3-d5ed-4790-a01c-1b83ff882204</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -119,7 +122,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='tabs-:r4p:--tab-1']</value>
-      <webElementGuid>5ee6b1e5-0370-4f98-a5d9-8910da221743</webElementGuid>
+      <webElementGuid>4f02b3bb-80ca-48ab-8f71-43514f76ca2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +130,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='accordion-panel-:r4n:']/div/div/button[2]</value>
-      <webElementGuid>5682536c-a560-4bac-bc81-f1c4438b221a</webElementGuid>
+      <webElementGuid>54b4eb9f-cc7b-4481-b750-d59a059d5c4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +138,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='링크'])[1]/following::button[1]</value>
-      <webElementGuid>8b5bb794-f03b-4b0a-b665-72a08f7773ff</webElementGuid>
+      <webElementGuid>17a000c0-9bee-4d81-ab99-655d3c594eb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +146,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='학생에게 자료 공유하기'])[1]/following::button[2]</value>
-      <webElementGuid>7c23e733-707d-4417-81f5-0dd85ff2ef79</webElementGuid>
+      <webElementGuid>025d3262-eb50-489a-9ae2-65cfecbfd26b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +154,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='링크 공유'])[1]/preceding::button[1]</value>
-      <webElementGuid>82b7dc12-ce3c-4d51-ae87-07c957e9a97e</webElementGuid>
+      <webElementGuid>dbc60b76-b4fd-438b-9ea2-4733cf118b2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,7 +162,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='파일 공유'])[1]/preceding::button[2]</value>
-      <webElementGuid>88264247-be0c-4296-b196-38508924db4b</webElementGuid>
+      <webElementGuid>81c1c2eb-803f-4940-ad4e-6e9e546bc4ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -167,7 +170,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='파일']/parent::*</value>
-      <webElementGuid>03f6019c-f16c-4cf7-b21c-5f9559b98f8e</webElementGuid>
+      <webElementGuid>2d4cdd90-543e-47b9-876e-1635ed023846</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -175,7 +178,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/div/div/button[2]</value>
-      <webElementGuid>52b78cb7-dd70-4d6c-860a-0c080e126ed6</webElementGuid>
+      <webElementGuid>bff22b8c-5b1c-4f87-b857-4f948810f7c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -183,6 +186,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'tabs-:r4p:--tab-1']</value>
-      <webElementGuid>083805a6-5b49-42d1-8754-b9acf2934bbb</webElementGuid>
+      <webElementGuid>12c35d74-78c9-41e1-a57b-fe04ddf56519</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

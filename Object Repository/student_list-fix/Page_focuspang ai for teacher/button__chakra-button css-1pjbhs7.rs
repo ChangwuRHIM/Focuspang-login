@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button__chakra-button css-1pjbhs7</name>
+   <tag></tag>
+   <elementGuidId>3c49a113-f6ee-4750-aeca-f665e76aa0e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.chakra-button.css-1pjbhs7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9208767d-351f-4a43-b40a-f4dcac2ce5f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>61346105-f507-48f1-9525-273162c477a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-button css-1pjbhs7</value>
+      <webElementGuid>d3febd8f-82db-4879-b653-95bec4ec0de7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>학생 수정</value>
+      <webElementGuid>eae8886d-c7c8-434f-b8aa-8cefa0589da3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>student-update-button</value>
+      <webElementGuid>39dd960c-810e-47bb-9a0d-d2018857e49c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>tooltip-:r52:</value>
+      <webElementGuid>d6cbd910-ec5a-4dab-8a64-a32b0051a65a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;css-wrghvn&quot;]/div[@class=&quot;chakra-container css-10wiq0h&quot;]/div[@class=&quot;css-1mc2bby&quot;]/div[@class=&quot;css-10ft286&quot;]/div[@class=&quot;chakra-container css-w8e4xc&quot;]/div[@class=&quot;chakra-stack css-153vwuu&quot;]/div[@class=&quot;chakra-table__container css-himg4b&quot;]/table[@class=&quot;chakra-table css-5605sr&quot;]/tbody[@class=&quot;css-1d4qs03&quot;]/tr[@class=&quot;css-0&quot;]/td[@class=&quot;css-1evox5k&quot;]/div[@class=&quot;chakra-stack css-1uodvt1&quot;]/button[@class=&quot;chakra-button css-1pjbhs7&quot;]</value>
+      <webElementGuid>435c4929-b8ec-4da5-ba8a-01e8763e4cff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>70786b76-c41c-4fad-8397-2ab8bde94a94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='자동화'])[1]/following::button[1]</value>
+      <webElementGuid>be1613a5-7e04-481b-a440-927fee6f1b25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='학생 정보 수정'])[1]/following::button[1]</value>
+      <webElementGuid>cf7a9bc2-5f90-40b9-8e97-de7c195e54b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='wgsf'])[1]/preceding::button[2]</value>
+      <webElementGuid>03b82d9b-97ff-4ee6-9cb1-f884fe358ed4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/button</value>
+      <webElementGuid>dc844f7c-7a6a-4698-896e-52db49ed3462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@data-testid = 'student-update-button']</value>
+      <webElementGuid>aba60ed0-7f30-437c-9c4f-fa10d95940cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

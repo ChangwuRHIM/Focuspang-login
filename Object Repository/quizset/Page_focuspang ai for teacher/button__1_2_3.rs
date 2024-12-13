@@ -13,6 +13,10 @@
          <key>XPATH</key>
          <value>(//button[@type='button'])[13]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @data-testid = 'confirm-delete-quizset-button']</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>aee3bc96-c9c0-45f3-bdf7-57db68684443</webElementGuid>
+      <webElementGuid>9dcb1e8a-1015-4a90-b082-327ff87ea5bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +35,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9db45279-3599-4642-bacb-0a1fa94b6553</webElementGuid>
+      <webElementGuid>a5105c18-a571-4ca4-842a-5f930323e7d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +43,7 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-button css-18zw69y</value>
-      <webElementGuid>585b0e02-6202-4d44-80ef-2f604c73801d</webElementGuid>
+      <webElementGuid>a6a715f3-7e27-4514-89af-902be3371fc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +51,7 @@
       <name>data-testid</name>
       <type>Main</type>
       <value>confirm-delete-quizset-button</value>
-      <webElementGuid>4d08b830-1bf9-41d0-8d67-58f36a28f005</webElementGuid>
+      <webElementGuid>bfc4c4d4-3e16-467b-81d0-2d171fc5edbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +59,7 @@
       <name>text</name>
       <type>Main</type>
       <value>삭제</value>
-      <webElementGuid>c9a02aab-29dd-424f-a406-27def76d288c</webElementGuid>
+      <webElementGuid>efd56b1c-7420-4316-b95b-decb3a264d50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +67,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;chakra-modal-:r40:&quot;)/footer[@class=&quot;chakra-modal__footer css-k0waxj&quot;]/button[@class=&quot;chakra-button css-18zw69y&quot;]</value>
-      <webElementGuid>dee2e2b9-57b8-45e3-88cd-bbe3bddea40a</webElementGuid>
+      <webElementGuid>71ad13a3-1e29-4673-8110-258d6cf999fd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +75,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[13]</value>
-      <webElementGuid>27d38f15-2452-4755-8afb-3a3060acd95d</webElementGuid>
+      <webElementGuid>62c2fa07-7752-41d3-86dc-1b7c73490693</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +83,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='chakra-modal-:r40:']/footer/button[2]</value>
-      <webElementGuid>e6262c33-b272-4ece-8086-ad13cb94a416</webElementGuid>
+      <webElementGuid>62530e08-3e75-4335-88a3-758e5d28656c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[1]/following::button[1]</value>
-      <webElementGuid>1558a6ec-79d7-43c8-a18a-df2f77a1f472</webElementGuid>
+      <webElementGuid>169a9545-d1c3-477f-a4bc-5aec7503085e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='삭제하시겠습니까? 삭제된 내용은 복구되지 않습니다.'])[1]/following::button[2]</value>
-      <webElementGuid>c06027ce-9063-4e7a-8129-d8f378b56d5f</webElementGuid>
+      <webElementGuid>2c9b3d95-140e-496e-b8b4-953833b3f03e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +107,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//footer/button[2]</value>
-      <webElementGuid>402915a0-48b0-4b02-87c9-a3ac7edbf37b</webElementGuid>
+      <webElementGuid>9c4e8f33-ede4-49bc-9fa0-8283bfe8729e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +115,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @data-testid = 'confirm-delete-quizset-button']</value>
-      <webElementGuid>b793d7f1-bd0f-47a4-9096-b2cba5442a76</webElementGuid>
+      <webElementGuid>56bab2aa-839f-40b9-a2b8-f87945fc8f3b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

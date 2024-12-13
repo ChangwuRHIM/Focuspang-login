@@ -21,7 +21,7 @@ WebUI.callTestCase(findTestCase('Teacher loin,logout/Focuspang_teacher_login'), 
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Page_focuspang ai for teacher/button__chakra-button css-2kj2c2'))
+WebUI.click(findTestObject('Teacher_named_change/teacher_setting_button'))
 
 WebUI.delay(3)
 

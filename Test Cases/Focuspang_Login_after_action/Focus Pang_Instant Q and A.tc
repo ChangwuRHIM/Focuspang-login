@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>1.포커스팡 로그인&#xd;
+2.포커스팡 즉문즉답 클릭&#xd;
+3.각 종류의 목록 모두 클릭해본다</description>
    <name>Focus Pang_Instant Q and A</name>
-   <tag></tag>
+   <tag>Fail 없이 모두 정상 동작 한다</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>65af127f-81e0-4382-be04-aa877082e997</testCaseGuid>

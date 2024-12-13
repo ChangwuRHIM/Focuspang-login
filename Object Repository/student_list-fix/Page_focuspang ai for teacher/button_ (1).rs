@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_ (1)</name>
+   <tag></tag>
+   <elementGuidId>aaf5db01-9cda-47ea-891c-6e69ca6c866c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.chakra-stack.css-11ehgu5 > button.chakra-button.css-mhxgfw</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5507162f-63ce-4089-98c6-bba2bf89f47e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>46473d04-24c9-459e-8fc7-dcc5480b8ccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-button css-mhxgfw</value>
+      <webElementGuid>528b59fd-badb-4e6d-9849-f31a1fa25ec1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>modal-close-button</value>
+      <webElementGuid>171752a1-af5f-4c9f-bab5-a17b832fb9a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>닫기</value>
+      <webElementGuid>423c0361-e0ce-4b3c-9dec-cf9ada8b932c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-modal--body-:R7kvf5t5ufja:&quot;)/footer[@class=&quot;chakra-modal__footer css-16ltw6x&quot;]/div[@class=&quot;chakra-stack css-11ehgu5&quot;]/button[@class=&quot;chakra-button css-mhxgfw&quot;]</value>
+      <webElementGuid>aa00e026-8478-41e4-8e81-dde756010832</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>cc06e8a8-75ba-4564-82d0-be94578b6640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chakra-modal--body-:R7kvf5t5ufja:']/footer/div/button</value>
+      <webElementGuid>0dfbe489-515b-42c2-b5f9-756507eb868e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='다시 보지 않기'])[2]/following::button[1]</value>
+      <webElementGuid>ef441056-ce09-4e06-8029-0de4f0f32448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='기기 부팅 후 일정 시간이 지나면 꺼지며 Android 팩토리 모드로 진입하는 현상'])[1]/following::button[1]</value>
+      <webElementGuid>0af1e2be-0fea-4301-acb5-e986ff10852b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/button</value>
+      <webElementGuid>978c5238-75cc-4653-ab34-6d1d5960d1df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@data-testid = 'modal-close-button']</value>
+      <webElementGuid>6e7d90c3-c7c9-42c1-8e26-5e017455f794</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

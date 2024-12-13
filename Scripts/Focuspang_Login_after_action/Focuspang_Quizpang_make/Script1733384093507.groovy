@@ -19,19 +19,19 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Teacher loin,logout/Focuspang_teacher_login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/quiz_make/Page_focuspang ai for teacher/div__1_2 (1)'))
+WebUI.click(findTestObject('Object Repository/quiz_make/Page_focuspang ai for teacher/quizmanagement'))
 
-WebUI.click(findTestObject('Object Repository/New Folder/Page_focuspang ai for teacher/button__1_2_3'))
+WebUI.click(findTestObject('Object Repository/quiz_make/Page_focuspang ai for teacher/create_quiz_set_button'))
 
-WebUI.click(findTestObject('Object Repository/New Folder/Page_focuspang ai for teacher/div__1_2_3'))
+WebUI.click(findTestObject('Object Repository/quiz_make/Page_focuspang ai for teacher/quizset_card_QUIZ'))
 
 WebUI.delay(3)
 
-WebUI.setText(findTestObject('Object Repository/New Folder/Page_focuspang ai for teacher/input__field-r42'), '자동화')
+WebUI.setText(findTestObject('Object Repository/quiz_make/Page_focuspang ai for teacher/quiz_header_input_filed'), '자동화')
 
 WebUI.click(findTestObject('Object Repository/quiz_make/Page_focuspang ai for teacher/p'))
 
 WebUI.setText(findTestObject('Object Repository/quiz_make/Page_focuspang ai for teacher/p'), '자동화테스트')
 
-WebUI.click(findTestObject('Object Repository/New Folder/Page_focuspang ai for teacher/button__1_2_3_4'))
+WebUI.click(findTestObject('Object Repository/quiz_make/Page_focuspang ai for teacher/quiz_save_button'))
 

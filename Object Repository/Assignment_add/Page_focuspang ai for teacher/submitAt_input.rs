@@ -6,24 +6,32 @@
    <elementGuidId>5151d4bb-6684-4bed-b87f-5d9026820edf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'datetime-local']</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//*[@id=&quot;field-:rv:&quot;]&#xd;
 </value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'submitAt-input']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
       <value>datetime-local</value>
-      <webElementGuid>b94f608f-2d25-4e87-8667-367650a93d7a</webElementGuid>
+      <webElementGuid>50bf2d3f-5736-4b0a-b268-c0f14bb06e7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>submitAt-input</value>
+      <webElementGuid>44ac2d39-1731-4a9f-8b5a-823edf2abbb7</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

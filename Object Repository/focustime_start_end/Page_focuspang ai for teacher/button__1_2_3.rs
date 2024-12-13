@@ -15,7 +15,7 @@
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;css-wrghvn&quot;]/div[@class=&quot;chakra-container css-10wiq0h&quot;]/div[@class=&quot;css-1mc2bby&quot;]/div[@class=&quot;css-10ft286&quot;]/div[@class=&quot;chakra-container css-w8e4xc&quot;]/div[@class=&quot;chakra-stack css-153vwuu&quot;]/div[@class=&quot;css-1ki54i&quot;]/div[@class=&quot;css-17zw3ol&quot;]/div[@class=&quot;css-rszk63&quot;]/div[@class=&quot;chakra-stack css-8g8ihq&quot;]/div[@class=&quot;css-g1avqe&quot;]/div[@class=&quot;chakra-stack css-tl3ftk&quot;]/div[@class=&quot;css-gmuwbf&quot;]/div[@class=&quot;chakra-stack css-153vwuu&quot;]/div[@class=&quot;chakra-stack css-ldoqu4&quot;]/button[@class=&quot;chakra-button css-1yexc2r&quot;]</value>
+         <value>//*[@data-testid = 'start-focus-time']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -27,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>16008a1d-8494-403e-8d49-262ed4905ab9</webElementGuid>
+      <webElementGuid>81274d3d-034d-4b75-939d-1093767c5c40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -35,7 +35,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>97ab62f5-f8d9-4b74-8092-ffafd881c3f3</webElementGuid>
+      <webElementGuid>bebe61c9-f8a1-4a9c-9a89-d4b3f87d683c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,7 +43,7 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-button css-1yexc2r</value>
-      <webElementGuid>209a9c55-2bf2-4aff-929c-e79c8e19b595</webElementGuid>
+      <webElementGuid>13b8b140-58e4-4378-aeb8-21774a405979</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -51,15 +51,23 @@
       <name>text</name>
       <type>Main</type>
       <value>포커스타임 시작</value>
-      <webElementGuid>3a84a0da-0d8b-4be2-926c-bf7ed761af90</webElementGuid>
+      <webElementGuid>5c1e5324-c061-4dff-a09e-6323944a6bc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;css-wrghvn&quot;]/div[@class=&quot;chakra-container css-10wiq0h&quot;]/div[@class=&quot;css-1mc2bby&quot;]/div[@class=&quot;css-10ft286&quot;]/div[@class=&quot;chakra-container css-w8e4xc&quot;]/div[@class=&quot;chakra-stack css-153vwuu&quot;]/div[@class=&quot;css-1ki54i&quot;]/div[@class=&quot;css-17zw3ol&quot;]/div[@class=&quot;css-rszk63&quot;]/div[@class=&quot;chakra-stack css-8g8ihq&quot;]/div[@class=&quot;css-g1avqe&quot;]/div[@class=&quot;chakra-stack css-tl3ftk&quot;]/div[@class=&quot;css-gmuwbf&quot;]/div[@class=&quot;chakra-stack css-153vwuu&quot;]/div[@class=&quot;chakra-stack css-ldoqu4&quot;]/button[@class=&quot;chakra-button css-1yexc2r&quot;]</value>
-      <webElementGuid>96414988-8ac3-44bd-9814-e1ddc406865b</webElementGuid>
+      <webElementGuid>1dd2674e-6671-4b2d-b741-511c828afb4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>start-focus-time</value>
+      <webElementGuid>5c6d80d9-ebd9-43e6-baa7-6fe46e9308b4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -67,7 +75,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[7]</value>
-      <webElementGuid>477e69fc-819e-47d4-940d-453ac096160e</webElementGuid>
+      <webElementGuid>e9112286-f3da-4c06-a4a4-41cac58880b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -75,7 +83,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='로그아웃'])[1]/following::button[1]</value>
-      <webElementGuid>2c3dbcc8-3227-4450-955e-9189ebde8744</webElementGuid>
+      <webElementGuid>85d8fca4-cc9f-4768-b5dd-0e90a344a0d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='설정'])[1]/following::button[2]</value>
-      <webElementGuid>29398da5-f3af-48f8-8e7a-1e97691f6c75</webElementGuid>
+      <webElementGuid>82616a18-f180-4458-bf56-805f75deca6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='수업 중'])[1]/preceding::button[1]</value>
-      <webElementGuid>7b93bd00-dcb3-47fc-95df-edf28fe1036b</webElementGuid>
+      <webElementGuid>123bbebb-e449-4d60-988e-36a18da671d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='화면공유,'])[1]/preceding::button[1]</value>
-      <webElementGuid>1d25fba2-d08d-498c-8cca-039607aea2ca</webElementGuid>
+      <webElementGuid>b83b48ff-26b5-4e53-b711-a43dc95886f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='포커스타임 시작']/parent::*</value>
-      <webElementGuid>4a018134-6fd1-42d4-b47e-8032238fda6e</webElementGuid>
+      <webElementGuid>2d50fc77-1afc-45ad-9997-a32af327ab3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,7 +123,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div[2]/button</value>
-      <webElementGuid>d8d3b06f-667d-41d0-ba04-bf5bbd37c7e9</webElementGuid>
+      <webElementGuid>49d1df17-64c6-4306-9d5a-bc4d87d8644b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,6 +131,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button']</value>
-      <webElementGuid>58513384-c8e3-472b-a71a-e182c18720ba</webElementGuid>
+      <webElementGuid>2a55ec74-ad9e-41db-8ca7-64dac464a9f4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

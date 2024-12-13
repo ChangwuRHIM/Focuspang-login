@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>quizset_card_QUIZ</name>
+   <tag></tag>
+   <elementGuidId>a9c01465-461e-4fb4-867d-54cb9649f2eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1iiz02i</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chakra-modal--body-:r3t:']/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'quizset-card-QUIZ']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c4daf75e-a202-4c1f-8f5a-16af8848a57b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>quizset-card-QUIZ</value>
+      <webElementGuid>4412e12e-4a5b-4daf-b8b7-d8f549765d24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1iiz02i</value>
+      <webElementGuid>8386f4b5-52f5-49e9-b01c-65a49c49e33a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>퀴즈수업 중 이해도를 확인하는 간단한 퀴즈 만들기 </value>
+      <webElementGuid>9c5fdedd-4fc6-4562-8124-98eed308ff7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-modal--body-:r3t:&quot;)/div[@class=&quot;chakra-stack css-1jery12&quot;]/div[@class=&quot;css-1iiz02i&quot;]</value>
+      <webElementGuid>8e33fa51-f386-4e87-a8d3-311fd8ea1512</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chakra-modal--body-:r3t:']/div/div</value>
+      <webElementGuid>5fd6d923-2938-4c1c-93ac-d96353598ceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='퀴즈'])[1]/following::div[18]</value>
+      <webElementGuid>ec140781-1113-4b30-9072-5f4ba1f0e7c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[1]/preceding::div[5]</value>
+      <webElementGuid>a47c6105-2f13-47f3-8783-787033554fb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div</value>
+      <webElementGuid>54e31fc0-6f4b-4718-9aad-b740b20b0141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@data-testid = 'quizset-card-QUIZ']</value>
+      <webElementGuid>62bc55cf-88c0-49aa-bb41-1c8ec5b1c287</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

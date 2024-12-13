@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>드랍다운 버튼</description>
+   <name>dropdown_button</name>
+   <tag></tag>
+   <elementGuidId>f9263d27-990e-4368-a3d4-b3c28b43839c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#weekday-0-0&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='weekday-0-0']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>weekday-0-0</value>
+      <webElementGuid>5c0e8fb8-9bbe-4bbb-95ab-36a21d92b7f5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

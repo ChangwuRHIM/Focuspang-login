@@ -6,12 +6,16 @@
    <elementGuidId>8465ee95-a987-4fdf-aba1-e4dd86e2411e</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value>div.chakra-stack.css-1xy0ri1</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='수업 추가'])[1]/following::div[7]</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>div.chakra-stack.css-1xy0ri1</value>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'class-info-card']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>7590a56a-1120-440c-b4cb-f8375d608a3b</webElementGuid>
+      <webElementGuid>ad51bccb-873c-4828-9d5a-e024a6a8757c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +35,7 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-stack css-1xy0ri1</value>
-      <webElementGuid>1a08cd67-531e-472f-b4e6-acc655694641</webElementGuid>
+      <webElementGuid>17891d77-2027-4ce2-9119-0846b5d7ea41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,15 +43,23 @@
       <name>text</name>
       <type>Main</type>
       <value>1교시1-1자동화테스트</value>
-      <webElementGuid>477bb63a-4779-418b-88c2-5aa825f99aa9</webElementGuid>
+      <webElementGuid>0193b57a-c5ef-4608-a504-ef8638a7fee8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;css-wrghvn&quot;]/div[@class=&quot;chakra-container css-10wiq0h&quot;]/div[@class=&quot;css-1mc2bby&quot;]/div[@class=&quot;css-10ft286&quot;]/div[1]/div[@class=&quot;chakra-container css-w8e4xc&quot;]/div[@class=&quot;chakra-stack css-153vwuu&quot;]/div[@class=&quot;css-6pkm7c&quot;]/div[@class=&quot;chakra-stack css-1f4tg3a&quot;]/div[@class=&quot;chakra-stack css-1m7ve9i&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;chakra-card css-1gi9426&quot;]/div[@class=&quot;chakra-stack css-1xy0ri1&quot;]</value>
-      <webElementGuid>7053dc60-d1da-4ec5-8234-0f622d7647f6</webElementGuid>
+      <webElementGuid>a6c682f4-903d-4eb8-8bce-25a3f07b9a91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>class-info-card</value>
+      <webElementGuid>e5a337fd-5360-4f00-80a6-a48921cfd0cb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +67,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='수업 추가'])[1]/following::div[7]</value>
-      <webElementGuid>7a0187b7-6dac-405e-bf09-e8e2b7179841</webElementGuid>
+      <webElementGuid>213f5701-b062-401f-a331-a3ab98bc35d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +75,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='로그아웃'])[1]/following::div[15]</value>
-      <webElementGuid>12ca1fc0-48e3-4355-b785-20d9ab10e332</webElementGuid>
+      <webElementGuid>e733c13b-afd4-46d1-b827-cb5f5f9724fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +83,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/div/div</value>
-      <webElementGuid>f2d57aa0-bc93-421b-8136-705c52ee43ad</webElementGuid>
+      <webElementGuid>56a3baf2-209e-408a-a75a-fbe69da1888e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

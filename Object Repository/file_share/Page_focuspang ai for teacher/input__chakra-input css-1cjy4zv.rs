@@ -13,6 +13,10 @@
          <key>XPATH</key>
          <value>//input[@value='']</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'filelink-link-input']</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -23,15 +27,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d2dce320-0bf9-4959-8e37-84a05b22668c</webElementGuid>
+      <webElementGuid>47977429-5556-4d91-9c56-81d93943b80a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>input placeholder</name>
       <type>Main</type>
       <value>링크 주소를 입력해주세요.</value>
-      <webElementGuid>b8eb778f-e6a4-47e2-89f6-7bf27d88190e</webElementGuid>
+      <webElementGuid>65277328-a630-44ce-83ec-25864859f8dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,15 +43,23 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-input css-1cjy4zv</value>
-      <webElementGuid>fc7a9581-1713-4e55-96e4-0de3e40be200</webElementGuid>
+      <webElementGuid>03ec5264-d353-4fe2-aa9b-f1f876c71e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;tabs-:r4q:--tabpanel-0&quot;]/div/div[1]/input</value>
+      <webElementGuid>02665d95-50b9-4564-9326-35e4662f7539</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath</name>
+      <name>data-testid</name>
       <type>Main</type>
-      <value>id(&quot;tabs-:r4p:--tabpanel-0&quot;)/div[@class=&quot;chakra-stack css-13uls06&quot;]/div[@class=&quot;chakra-stack css-1uodvt1&quot;]/input[@class=&quot;chakra-input css-1cjy4zv&quot;]</value>
-      <webElementGuid>fe1aebf0-e85e-4ad0-b0e8-ffb54cde9b9f</webElementGuid>
+      <value>filelink-link-input</value>
+      <webElementGuid>b5f15efa-4ae2-4523-b4aa-cfc1a2a0db7a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +67,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='']</value>
-      <webElementGuid>8426c6de-0005-4f9a-b863-251439830ab1</webElementGuid>
+      <webElementGuid>f26061be-3c1c-47fd-83c6-6bb9b5412798</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +75,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='tabs-:r4p:--tabpanel-0']/div/div/input</value>
-      <webElementGuid>b31fabb0-0ac2-4322-bd6d-38acae759592</webElementGuid>
+      <webElementGuid>bf534736-3f43-4f66-b3ce-d58bfac0461a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +83,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>434368e6-82dc-4f81-9a0d-0f1230eebb42</webElementGuid>
+      <webElementGuid>3d0bb853-db25-4d91-b7a0-d6746dc4ba11</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

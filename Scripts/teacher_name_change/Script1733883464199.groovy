@@ -29,7 +29,7 @@ WebUI.sendKeys(findTestObject('Object Repository/teacher_name_change/Page_focusp
 
 WebUI.delay(2)
 
-WebUI.setText(findTestObject('Object Repository/teacher_name_change/Page_focuspang ai for teacher/input__field-r3l'), '자동화')
+WebUI.setText(findTestObject('Object Repository/teacher_name_change/Page_focuspang ai for teacher/input__field-r3l'), '자동화1')
 
 WebUI.click(findTestObject('Object Repository/teacher_name_change/Page_focuspang ai for teacher/button__1_2_3'))
 

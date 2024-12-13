@@ -7,7 +7,6 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -15,7 +14,7 @@
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[@placeholder = '제목을 입력하세요.']</value>
+         <value>//*[@data-testid = 'title-input']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -27,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>377b8842-9787-4d7b-9180-041076f4e4f2</webElementGuid>
+      <webElementGuid>55793be3-fb09-4533-a5b3-a5910a4ee9ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -35,15 +34,15 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>45</value>
-      <webElementGuid>766bacd8-c75e-4cd4-a0aa-34e5734d6752</webElementGuid>
+      <webElementGuid>881f46e5-9b38-48f2-bcd3-4e0d0beb7c92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
       <value>제목을 입력하세요.</value>
-      <webElementGuid>e0c7d1ce-d1c7-4523-821f-4ac0f084e703</webElementGuid>
+      <webElementGuid>876b6d7d-70f5-4aac-b50b-62ccfc567515</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -51,7 +50,7 @@
       <name>id</name>
       <type>Main</type>
       <value>field-:r4g:</value>
-      <webElementGuid>3faa29fe-15ff-4f0d-b674-6fbe6be3e227</webElementGuid>
+      <webElementGuid>0cd0790b-022b-4424-83ab-ab5828830949</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -59,7 +58,7 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-input css-mj3in7</value>
-      <webElementGuid>d637b26d-067b-4cbe-b7ae-5938d7eeb263</webElementGuid>
+      <webElementGuid>a9b458b3-3099-4609-bb18-11ce17ecdbaf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,7 +66,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>61c77985-ceea-4183-87bd-1b53ef8b868c</webElementGuid>
+      <webElementGuid>4c11c74f-f3ed-4924-bf53-c7ec8f2f8786</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -75,7 +74,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;field-:r4g:&quot;)</value>
-      <webElementGuid>a7da7ad9-3322-4a60-897b-bce6737966f8</webElementGuid>
+      <webElementGuid>180b480d-e3d2-4009-8fa2-e315786f3d3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>title-input</value>
+      <webElementGuid>a7034543-5532-4033-b3cc-d624f4a95b35</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -83,7 +90,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='field-:r4g:']</value>
-      <webElementGuid>abca211e-9baa-49f5-aaf4-7c3ec0818c9c</webElementGuid>
+      <webElementGuid>03a0c29d-6247-437f-963f-9ae2da3509b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>d966f7bb-38db-4f54-8010-398018ddc845</webElementGuid>
+      <webElementGuid>24a3a1d5-c1bd-4b8f-b1a5-8b83369b5df9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'field-:r4g:']</value>
-      <webElementGuid>e3e8be53-1afe-403a-8deb-b34a7915bd25</webElementGuid>
+      <webElementGuid>57920a28-634b-4b95-8609-fc87a95a8fe7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

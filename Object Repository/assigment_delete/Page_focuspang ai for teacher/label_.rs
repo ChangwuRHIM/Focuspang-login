@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_</name>
+   <tag></tag>
+   <elementGuidId>71b23b1b-97b3-4aa4-b655-1c1ce65bbafb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.chakra-stack.css-11ehgu5 > label.chakra-checkbox.css-8efisn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chakra-modal--body-:R7kvf5t5ufja:']/footer/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5ac99079-c143-4d40-9df1-159e570d12e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-checkbox css-8efisn</value>
+      <webElementGuid>586afe6a-3ad1-46b0-84c5-da98d80bf951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>dont-show-checkbox</value>
+      <webElementGuid>c6a9fef4-9ec3-49eb-90a2-6230e400b657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>다시 보지 않기</value>
+      <webElementGuid>28848442-1f36-46d3-a3ea-893fc2d37029</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-modal--body-:R7kvf5t5ufja:&quot;)/footer[@class=&quot;chakra-modal__footer css-16ltw6x&quot;]/div[@class=&quot;chakra-stack css-11ehgu5&quot;]/label[@class=&quot;chakra-checkbox css-8efisn&quot;]</value>
+      <webElementGuid>d8f3c090-d53f-4ce5-b0cd-d3d7dc1d80d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chakra-modal--body-:R7kvf5t5ufja:']/footer/div/label</value>
+      <webElementGuid>e62d0aa3-42a0-4bff-aab8-874bbb5d97e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='기기 부팅 후 일정 시간이 지나면 꺼지며 Android 팩토리 모드로 진입하는 현상'])[1]/following::label[1]</value>
+      <webElementGuid>79ec4f87-61ad-473d-84d5-5757fc732510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='굿노트와 같은 특정 앱의 사용 불가 현상'])[1]/following::label[1]</value>
+      <webElementGuid>d8439c8d-7b8f-4b73-bfdd-548f881612d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='닫기'])[2]/preceding::label[1]</value>
+      <webElementGuid>61a918be-709d-4b62-a4bd-7f975bbf3ef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/label</value>
+      <webElementGuid>82496264-25dd-49ba-acd2-e6b08cd338ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@data-testid = 'dont-show-checkbox']</value>
+      <webElementGuid>d9047a49-56f5-453a-a84f-cb062a5e4032</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

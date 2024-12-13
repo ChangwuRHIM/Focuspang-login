@@ -13,6 +13,10 @@
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='시간표'])[1]/following::div[1]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'quizmanagement']</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>09caf4dd-4dc3-4c9e-89b2-39ce8642e753</webElementGuid>
+      <webElementGuid>5547307a-c4fe-4ac1-a2d8-759304495204</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +35,7 @@
       <name>role</name>
       <type>Main</type>
       <value>group</value>
-      <webElementGuid>03ff4d43-0b0c-4aed-a1e5-05ea7d9be542</webElementGuid>
+      <webElementGuid>0a7a490c-4789-4024-b835-f38239ec8473</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +43,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-f1yw6l</value>
-      <webElementGuid>4bb0b67c-741f-42ce-83de-c844e3549cdc</webElementGuid>
+      <webElementGuid>d4c147d1-ca2b-4f45-8203-e7367178802d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,15 +51,23 @@
       <name>text</name>
       <type>Main</type>
       <value>퀴즈팡 관리</value>
-      <webElementGuid>1c9ec829-8d86-4010-bab7-4b5337a8c494</webElementGuid>
+      <webElementGuid>95f7a9fa-48a9-443a-a4d2-834cc940e13b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;css-wrghvn&quot;]/div[@class=&quot;chakra-container css-10wiq0h&quot;]/div[@class=&quot;css-1mc2bby&quot;]/div[@class=&quot;css-etfmaf&quot;]/div[@class=&quot;css-1lcejj2&quot;]/a[@class=&quot;css-7fj8q3&quot;]/div[@class=&quot;css-f1yw6l&quot;]</value>
-      <webElementGuid>8186006c-806a-4dfd-aab2-7434d0dbedf4</webElementGuid>
+      <webElementGuid>34579c06-6a5f-4515-bbac-b49ddc9947e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>quizmanagement</value>
+      <webElementGuid>6c4bfe3a-29c1-46b4-972f-532df190d891</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +75,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='시간표'])[1]/following::div[1]</value>
-      <webElementGuid>f9616ea0-897b-4dc3-9ad0-6065328bc527</webElementGuid>
+      <webElementGuid>a608c6e1-34ff-45f9-967c-4ba45c382bb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +83,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='임'])[1]/following::div[5]</value>
-      <webElementGuid>ba17878e-4eaf-4d26-8fab-1f46127170c6</webElementGuid>
+      <webElementGuid>13c84d56-77ba-4a90-b47d-ecea67b4d8f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='수업 외 앱/웹 제어 관리'])[1]/preceding::div[1]</value>
-      <webElementGuid>20d3b942-acbd-4a03-947e-9f18ac0b949c</webElementGuid>
+      <webElementGuid>afa05a2c-5b72-43b4-987f-5c0ff962babe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +99,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]/div</value>
-      <webElementGuid>e0d0e8be-e912-4d99-9faa-ff083af9dac7</webElementGuid>
+      <webElementGuid>ee16aab7-e9c3-4a67-990b-c92d8f100218</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

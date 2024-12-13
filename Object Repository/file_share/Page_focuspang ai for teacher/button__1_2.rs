@@ -13,6 +13,10 @@
          <key>XPATH</key>
          <value>(//button[@type='button'])[16]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'filelink-share-button']</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ed6a6a95-351a-4129-b553-d8fd0c71a176</webElementGuid>
+      <webElementGuid>a20515e9-e8c3-4fc4-b8cc-6d55f88ef9db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +35,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f0056613-e8ba-4d69-9359-6f6fd56fbeb4</webElementGuid>
+      <webElementGuid>b82b62f8-4edb-4cc3-8f9a-5c79f2344037</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +43,7 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-button css-10qoo3g</value>
-      <webElementGuid>4a44c40c-1e08-495e-ad16-8b5409218ff6</webElementGuid>
+      <webElementGuid>00db4110-5801-4991-ae6b-2cc6be275d96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,15 +51,23 @@
       <name>text</name>
       <type>Main</type>
       <value>링크 공유</value>
-      <webElementGuid>5d662553-30b3-4269-8900-0400e7b0ca7a</webElementGuid>
+      <webElementGuid>77f8401f-a99c-4dd2-a74d-20f9c048beff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tabs-:r4p:--tabpanel-0&quot;)/div[@class=&quot;chakra-stack css-13uls06&quot;]/div[@class=&quot;chakra-stack css-1uodvt1&quot;]/button[@class=&quot;chakra-button css-10qoo3g&quot;]</value>
-      <webElementGuid>a57d1bf0-0974-4a9d-9b03-3366462da836</webElementGuid>
+      <webElementGuid>bdf72b33-61f6-41e6-95b4-4080b653c61e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>filelink-share-button</value>
+      <webElementGuid>069be4dc-76a8-409d-acee-b639339c79bb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +75,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[16]</value>
-      <webElementGuid>0809abe0-8000-4aed-bf7c-51c73f3a20ad</webElementGuid>
+      <webElementGuid>cc04d5ab-7815-4ac0-8f1f-c1412f56005d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +83,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='tabs-:r4p:--tabpanel-0']/div/div/button</value>
-      <webElementGuid>f3efd020-f697-4512-9328-ee4b06fc6d31</webElementGuid>
+      <webElementGuid>d18b4884-4890-4e36-a780-51d1a669975a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='파일'])[1]/following::button[1]</value>
-      <webElementGuid>ea5f6bf4-3195-43fe-9c85-2d7f029c3ddd</webElementGuid>
+      <webElementGuid>aa92121b-da3f-42f4-9ae6-8dd8abb00c6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='링크'])[1]/following::button[2]</value>
-      <webElementGuid>df167df6-0233-4cc5-987d-25ec227adb4f</webElementGuid>
+      <webElementGuid>485fbd05-f68f-48bd-8bd3-6a827f0a71a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='파일 공유'])[1]/preceding::button[1]</value>
-      <webElementGuid>9d8369d5-9584-465c-996a-34797e840207</webElementGuid>
+      <webElementGuid>e1c8c612-f393-45e5-8834-751eeb86b681</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='학생의 사용을 통제할 앱과 웹 사이트'])[1]/preceding::button[2]</value>
-      <webElementGuid>690a5b90-b464-41a9-a524-cc67a7c50fda</webElementGuid>
+      <webElementGuid>d3fa4ebc-db0e-4591-a90d-34f2525484dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +123,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='링크 공유']/parent::*</value>
-      <webElementGuid>86078bf6-9bc3-4012-8033-3d2c8ab5a837</webElementGuid>
+      <webElementGuid>b483a7de-cd1b-4c72-a541-ba05e39e0a0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +131,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/div/div[2]/div/div/div/button</value>
-      <webElementGuid>54b14f16-19d4-453f-94e3-a3f50db0d315</webElementGuid>
+      <webElementGuid>31077883-fc9a-4c02-a1f8-df6fbd23a6fc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
