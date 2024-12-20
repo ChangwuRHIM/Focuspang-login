@@ -19,25 +19,35 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('focustime_start'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Focustime_features/Page_focuspang ai for teacher/button__chakra-button css-138310v'))
+WebUI.click(findTestObject('Object Repository/Focustime_features/Page_focuspang ai for teacher/Page_focuspang ai for teacher/button__chakra-button css-138310v'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/Focustime_features/Page_focuspang ai for teacher/button__chakra-button css-138310v_1_2'))
+WebUI.click(findTestObject('Object Repository/Focustime_features/Page_focuspang ai for teacher/Page_focuspang ai for teacher/button__chakra-button css-138310v_1_2'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/Focustime_features/Page_focuspang ai for teacher/button__chakra-button css-10742wj'))
+WebUI.click(findTestObject('Object Repository/Focustime_features/Page_focuspang ai for teacher/Page_focuspang ai for teacher/button__chakra-button css-10742wj'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/Focustime_features/Page_focuspang ai for teacher/button__chakra-button css-138310v_1_2_3'))
+WebUI.click(findTestObject('Object Repository/Focustime_features/Page_focuspang ai for teacher/Page_focuspang ai for teacher/button__chakra-button css-138310v_1_2_3'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/Focustime_features/Page_focuspang ai for teacher/button__1_2_3_4'))
+WebUI.click(findTestObject('Object Repository/Focustime_features/Page_focuspang ai for teacher/Page_focuspang ai for teacher/button__1_2_3_4'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Focustime_features/Page_focuspang ai for teacher/Page_focuspang ai for teacher/sub_time_button_-5'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Focustime_features/Page_focuspang ai for teacher/Page_focuspang ai for teacher/add_time_button_5'))
 
 WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/Focustime_features/Page_focuspang ai for teacher/button_Quit'))
+
+WebUI.delay(3)
 

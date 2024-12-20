@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button__1_2_3 (1)</name>
+   <name>assigment-delete_button</name>
    <tag></tag>
-   <elementGuidId>eb5de1f8-2c35-47d1-89ba-dab36576c981</elementGuidId>
+   <elementGuidId>f05f5ef7-6f6f-4910-b489-4a54321410e6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.chakra-button.css-1749gbk</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[7]</value>
+         <value>button.chakra-button.css-netl3x</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[@data-testid = 'assignment']</value>
+         <value>//*[@data-testid = 'delete-button-0']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -27,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a6be1096-97a0-48e7-80d3-bfa2d4266b1b</webElementGuid>
+      <webElementGuid>bdcbab26-909c-44b0-a788-c1b277c04a1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -35,78 +35,78 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ef6b2a7d-db70-466e-b3d0-2dd8775d891b</webElementGuid>
+      <webElementGuid>a1e4fac4-58b9-4b94-91b7-22dda4a8a3b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>chakra-button css-1749gbk</value>
-      <webElementGuid>c0176ec7-86aa-4eb9-ab22-52b002d9b7d0</webElementGuid>
+      <value>chakra-button css-netl3x</value>
+      <webElementGuid>a83b7578-76af-45ad-88cc-8c8d4ddbb73b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>과제 추가</value>
-      <webElementGuid>481a62c9-225e-464c-8822-8360dfdaef65</webElementGuid>
+      <value>삭제</value>
+      <webElementGuid>dbfbdf2a-39be-4b99-86c0-62e4571e35d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;css-wrghvn&quot;]/div[@class=&quot;chakra-container css-10wiq0h&quot;]/div[@class=&quot;css-1mc2bby&quot;]/div[@class=&quot;css-10ft286&quot;]/div[@class=&quot;chakra-container css-w8e4xc&quot;]/div[@class=&quot;chakra-stack css-153vwuu&quot;]/div[@class=&quot;chakra-stack css-1tt2iqn&quot;]/div[@class=&quot;chakra-stack css-1tvub7s&quot;]/div[@class=&quot;chakra-stack css-1uodvt1&quot;]/button[@class=&quot;chakra-button css-1749gbk&quot;]</value>
-      <webElementGuid>64efe6e8-4e61-45b7-8386-1ef18b2b85a0</webElementGuid>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;css-wrghvn&quot;]/div[@class=&quot;chakra-container css-10wiq0h&quot;]/div[@class=&quot;css-1mc2bby&quot;]/div[@class=&quot;css-10ft286&quot;]/div[@class=&quot;chakra-container css-w8e4xc&quot;]/div[@class=&quot;chakra-stack css-153vwuu&quot;]/div[@class=&quot;chakra-table__container css-1fr8s8r&quot;]/table[@class=&quot;chakra-table css-5605sr&quot;]/tbody[@class=&quot;css-0&quot;]/tr[@class=&quot;css-4g6ai3&quot;]/td[@class=&quot;css-1i545tb&quot;]/div[@class=&quot;chakra-button__group css-1ind3v2&quot;]/button[@class=&quot;chakra-button css-netl3x&quot;]</value>
+      <webElementGuid>fecc1b8e-4228-4263-9dfd-ffc4241c869e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-testid</name>
       <type>Main</type>
-      <value>assignment</value>
-      <webElementGuid>4e97ac46-b2b7-4d40-973b-838fa19250ea</webElementGuid>
+      <value>delete-button-0</value>
+      <webElementGuid>65fbe8ed-758d-41c7-9777-44cc5c75a74d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[7]</value>
-      <webElementGuid>5c8c4480-e0a9-4b40-9312-94fdc2f3ec3f</webElementGuid>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>3c5b0046-783b-4822-bd4a-dfebb09213a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='로그아웃'])[1]/following::button[1]</value>
-      <webElementGuid>1ece889f-deca-4e13-91c9-1ce7e6363995</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='더 보기'])[1]/following::button[1]</value>
+      <webElementGuid>50894524-f11a-4792-90c5-842158d38280</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='설정'])[1]/following::button[2]</value>
-      <webElementGuid>4d821f02-11a7-4d04-9370-493669f61e49</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='수정'])[1]/following::button[2]</value>
+      <webElementGuid>f4d3be9f-90aa-49ee-9bcc-927bb405f0fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='과제 추가']/parent::*</value>
-      <webElementGuid>1e9866c6-3e78-4f92-a6f0-f067c192f065</webElementGuid>
+      <value>//*/text()[normalize-space(.)='삭제']/parent::*</value>
+      <webElementGuid>222fa951-9ba2-4129-be08-a3c5d879c076</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div/div[2]/button</value>
-      <webElementGuid>af94ed68-d904-4fe5-bc4b-6734e7a4c49b</webElementGuid>
+      <value>//td[6]/div/button[2]</value>
+      <webElementGuid>b74ea00c-87f0-49d6-89fc-470e7220fa0d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

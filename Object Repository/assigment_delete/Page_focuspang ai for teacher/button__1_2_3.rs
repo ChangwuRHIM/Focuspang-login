@@ -10,12 +10,12 @@
          <value>button.chakra-button.css-f70cqa</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[11]</value>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'confirm-delete-button-0']</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@class = 'chakra-button css-f70cqa']</value>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[11]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -27,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>42b796ce-e15a-4db1-b9f0-ff36f1e54f85</webElementGuid>
+      <webElementGuid>c1898728-96ed-43bb-ac1a-666a04c0ad03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -35,15 +35,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e8be0b71-f7ea-48bc-9175-49da80e1e7a4</webElementGuid>
+      <webElementGuid>6174235d-1d34-4b6c-ab8a-e4416095c596</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>chakra-button css-f70cqa</value>
-      <webElementGuid>f5daf2ae-101e-467a-8801-7cbf925159ee</webElementGuid>
+      <webElementGuid>37f9ded3-d11f-48b9-ab3f-c8ee1c5f87fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -51,7 +51,7 @@
       <name>text</name>
       <type>Main</type>
       <value>삭제</value>
-      <webElementGuid>272a46a7-f6e6-4169-8aa8-586a1681ceb6</webElementGuid>
+      <webElementGuid>8ddad999-fc0f-49e0-94f8-a5c33ca59191</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -59,7 +59,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;chakra-modal-:r8t:&quot;)/footer[@class=&quot;chakra-modal__footer css-k0waxj&quot;]/button[@class=&quot;chakra-button css-f70cqa&quot;]</value>
-      <webElementGuid>4b5963a5-a252-49b9-97f4-34524fd8e4b2</webElementGuid>
+      <webElementGuid>7c68a67e-2be5-4e36-84c4-e6b5ee956261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>confirm-delete-button-0</value>
+      <webElementGuid>cc01dcef-8be7-4875-98a3-69f876c464fc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -67,7 +75,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[11]</value>
-      <webElementGuid>adb076d4-72d8-4fad-8f63-d9d858799058</webElementGuid>
+      <webElementGuid>65d0afc8-2070-49e2-bdf6-b92d6fd854fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -75,7 +83,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='chakra-modal-:r8t:']/footer/button[2]</value>
-      <webElementGuid>103ae84b-3c82-4e82-95d0-b0e852267571</webElementGuid>
+      <webElementGuid>d7616e34-70c2-4700-9e20-409cf0d55fd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[1]/following::button[1]</value>
-      <webElementGuid>9f4be97b-d704-4ffd-b1f7-ac9a1d891455</webElementGuid>
+      <webElementGuid>71b2742c-2e5e-4438-89ef-39ab1d3537aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='삭제하시겠습니까? 삭제된 내용은 복구되지 않습니다.'])[1]/following::button[2]</value>
-      <webElementGuid>1e276310-fa4b-4471-b713-47640c3ffb0f</webElementGuid>
+      <webElementGuid>30542a1e-ecd8-4e15-babc-02b86072d4fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +107,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//footer/button[2]</value>
-      <webElementGuid>0a349e6e-7ccd-48cf-b1b0-04168aada34a</webElementGuid>
+      <webElementGuid>0bb74518-fbcc-48a7-b63a-05250099ccd8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

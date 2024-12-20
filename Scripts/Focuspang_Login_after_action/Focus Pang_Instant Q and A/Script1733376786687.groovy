@@ -41,3 +41,5 @@ WebUI.click(findTestObject('Object Repository/focuspangQ and A/Page_focuspang ai
 
 WebUI.click(findTestObject('Object Repository/focuspangQ and A/Page_focuspang ai 3.0/div__AB7Lab Id5V1_1_2_3_4_5_6_7'))
 
+WebUI.delay(2)
+

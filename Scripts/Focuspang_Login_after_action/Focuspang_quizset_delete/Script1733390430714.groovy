@@ -25,3 +25,5 @@ WebUI.click(findTestObject('Object Repository/quizset/Page_focuspang ai for teac
 
 WebUI.click(findTestObject('Object Repository/quizset/Page_focuspang ai for teacher/button__1_2_3'))
 
+WebUI.delay(3)
+

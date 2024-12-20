@@ -40,14 +40,16 @@ WebUI.setText(findTestObject('Object Repository/student_list-fix/Page_focuspang 
 WebUI.click(findTestObject('Object Repository/student_list-fix/Page_focuspang ai for teacher/input__field-r1h'))
 
 WebUI.sendKeys(findTestObject('Object Repository/student_list-fix/Page_focuspang ai for teacher/input__field-r1h'), Keys.chord(
-	Keys.CONTROL, 'a'))
+        Keys.CONTROL, 'a'))
 
 WebUI.sendKeys(findTestObject('Object Repository/student_list-fix/Page_focuspang ai for teacher/input__field-r1h'), Keys.chord(
-	Keys.BACK_SPACE))
+        Keys.BACK_SPACE))
 
 WebUI.setText(findTestObject('Object Repository/student_list-fix/Page_focuspang ai for teacher/input__field-r1h'), '자동화삭제명단')
 
 WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/student_list-fix/Page_focuspang ai for teacher/button__1_2_3'))
+
+WebUI.delay(3)
 

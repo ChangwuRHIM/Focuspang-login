@@ -21,7 +21,8 @@ WebUI.callTestCase(findTestCase('Teacher loin,logout/Focuspang_teacher_login'), 
 
 WebUI.click(findTestObject('Object Repository/focustime_start/Page_focuspang ai for teacher/div_11-1'))
 
-WebUI.waitForElementClickable(findTestObject('Object Repository/focustime_start/Page_focuspang ai for teacher/div__1_2'), 10)
+WebUI.waitForElementClickable(findTestObject('Object Repository/focustime_start/Page_focuspang ai for teacher/div__1_2'), 
+    10)
 
 WebUI.click(findTestObject('Object Repository/focustime_start/Page_focuspang ai for teacher/div__1_2'))
 
@@ -31,7 +32,10 @@ WebUI.click(findTestObject('Object Repository/focustime_start/Page_focuspang ai 
 
 WebUI.acceptAlert()
 
-WebUI.waitForElementClickable(findTestObject('Object Repository/focustime_start/Page_focuspang ai for teacher/button_Quit'), 10)
+WebUI.waitForElementClickable(findTestObject('Object Repository/focustime_start/Page_focuspang ai for teacher/button_Quit'), 
+    10)
 
 WebUI.click(findTestObject('Object Repository/focustime_start/Page_focuspang ai for teacher/button_Quit'))
+
+WebUI.delay(3)
 

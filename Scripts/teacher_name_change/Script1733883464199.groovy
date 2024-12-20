@@ -17,23 +17,39 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+// 랜덤 문자열 생성 함수
+// 1~100 사이의 랜덤 숫자
+// 랜덤 문자열 생성
+String randomText = generateRandomText()
+
+// 디버깅용: 생성된 문자열 출력
+println('랜덤 입력 값: ' + randomText)
+
+// 기존 동작 유지
 WebUI.callTestCase(findTestCase('Teacher loin,logout/Focuspang_teacher_login'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/teacher_name_change/Page_focuspang ai for teacher/button__chakra-button css-2kj2c2'))
 
 WebUI.click(findTestObject('Object Repository/teacher_name_change/Page_focuspang ai for teacher/input__field-r3l'))
 
-WebUI.sendKeys(findTestObject('Object Repository/teacher_name_change/Page_focuspang ai for teacher/input__field-r3l'), Keys.chord(Keys.CONTROL, 'a'))
+WebUI.sendKeys(findTestObject('Object Repository/teacher_name_change/Page_focuspang ai for teacher/input__field-r3l'), Keys.chord(
+        Keys.CONTROL, 'a'))
 
-WebUI.sendKeys(findTestObject('Object Repository/teacher_name_change/Page_focuspang ai for teacher/input__field-r3l'), Keys.chord(Keys.BACK_SPACE))
+WebUI.sendKeys(findTestObject('Object Repository/teacher_name_change/Page_focuspang ai for teacher/input__field-r3l'), Keys.chord(
+        Keys.BACK_SPACE))
 
 WebUI.delay(2)
 
-WebUI.setText(findTestObject('Object Repository/teacher_name_change/Page_focuspang ai for teacher/input__field-r3l'), '자동화1')
+// 랜덤 문자열을 입력 필드에 설정
+WebUI.setText(findTestObject('Object Repository/teacher_name_change/Page_focuspang ai for teacher/input__field-r3l'), randomText)
 
 WebUI.click(findTestObject('Object Repository/teacher_name_change/Page_focuspang ai for teacher/button__1_2_3'))
 
 WebUI.delay(2)
 
 WebUI.acceptAlert()
+
+String generateRandomText() {
+    return '자동화' + (new Random().nextInt(100) + 1)
+}
 

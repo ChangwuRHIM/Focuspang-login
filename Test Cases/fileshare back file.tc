@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>파일공유의 이전 testcase 보유 버전</description>
+   <name>fileshare back file</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8a2346c-a324-46c8-913e-5990d73eff22</testCaseGuid>
+</TestCaseEntity>

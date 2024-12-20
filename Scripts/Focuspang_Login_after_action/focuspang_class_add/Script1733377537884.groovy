@@ -31,3 +31,5 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/class_add/dropdown_b
 
 WebUI.click(findTestObject('Object Repository/class_add/submit_create_timetable_button'))
 
+WebUI.delay(2)
+

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_11-1</name>
+   <name>1class_monday_assigment_delete</name>
    <tag></tag>
    <elementGuidId>a78411a5-d811-47e9-9ff4-fcba5d47b305</elementGuidId>
    <selectorCollection>
@@ -13,6 +13,10 @@
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='수업 추가'])[1]/following::div[6]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'class-info-card']</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>0109b222-9662-47fc-a0a4-7f8d285f68d1</webElementGuid>
+      <webElementGuid>4a44e2c3-6b01-415c-9a0f-1c43da616bf8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +35,7 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-card css-1gi9426</value>
-      <webElementGuid>521aee01-715d-4ec0-81b8-eb4e784e5d4e</webElementGuid>
+      <webElementGuid>cb3cddb0-9ada-45df-ab81-fd31105ebc03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +43,7 @@
       <name>data-testid</name>
       <type>Main</type>
       <value>class-info-card</value>
-      <webElementGuid>6459c631-0113-42aa-a24b-e1d0ada19edf</webElementGuid>
+      <webElementGuid>55347139-1c4c-4b45-a37f-de1be1473ad4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +51,7 @@
       <name>text</name>
       <type>Main</type>
       <value>1교시1-1자동화테스트</value>
-      <webElementGuid>ed2059bf-ae65-4545-b1ad-60064a873f23</webElementGuid>
+      <webElementGuid>b9f5d251-db5f-4d27-a52a-8f1bb06a663d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +59,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;css-wrghvn&quot;]/div[@class=&quot;chakra-container css-10wiq0h&quot;]/div[@class=&quot;css-1mc2bby&quot;]/div[@class=&quot;css-10ft286&quot;]/div[1]/div[@class=&quot;chakra-container css-w8e4xc&quot;]/div[@class=&quot;chakra-stack css-153vwuu&quot;]/div[@class=&quot;css-6pkm7c&quot;]/div[@class=&quot;chakra-stack css-1f4tg3a&quot;]/div[@class=&quot;chakra-stack css-1m7ve9i&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;chakra-card css-1gi9426&quot;]</value>
-      <webElementGuid>5418daf4-b068-470d-816f-9d19e5c1ea14</webElementGuid>
+      <webElementGuid>e5638b4d-254f-4ad1-8c78-9063f4218caf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +67,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='수업 추가'])[1]/following::div[6]</value>
-      <webElementGuid>db5e0f32-4eba-4904-b133-ada83dba8b13</webElementGuid>
+      <webElementGuid>8bdaee91-7bc7-4a46-b187-a83780665e41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='로그아웃'])[1]/following::div[14]</value>
-      <webElementGuid>2ceebb75-e526-44d4-b702-9d697d029dc4</webElementGuid>
+      <webElementGuid>d28cbd03-a9e6-448b-81ef-fe9faa4ab03a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +83,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/div</value>
-      <webElementGuid>8aab0d2a-4d2a-4605-b6f0-975e1a212880</webElementGuid>
+      <webElementGuid>a5c893cb-5f1d-46c8-a01b-81e530b4632e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +91,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@data-testid = 'class-info-card']</value>
-      <webElementGuid>91fdcf10-d5f2-4a50-83fe-f3520ad444c6</webElementGuid>
+      <webElementGuid>cc1e1df7-9814-444c-8fa6-d56b35a3100b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

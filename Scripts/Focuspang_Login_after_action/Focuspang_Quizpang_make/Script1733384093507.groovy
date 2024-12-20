@@ -35,3 +35,5 @@ WebUI.setText(findTestObject('Object Repository/quiz_make/Page_focuspang ai for 
 
 WebUI.click(findTestObject('Object Repository/quiz_make/Page_focuspang ai for teacher/quiz_save_button'))
 
+WebUI.delay(2)
+

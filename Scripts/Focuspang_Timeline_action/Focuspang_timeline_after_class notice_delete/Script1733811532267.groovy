@@ -19,9 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Teacher loin,logout/Focuspang_teacher_login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/class notice delete/Page_focuspang ai for teacher/div_11-1'))
+WebUI.click(findTestObject('Object Repository/class notice delete/Page_focuspang ai for teacher/1class_monday_delete'))
 
 WebUI.click(findTestObject('Object Repository/class notice delete/Page_focuspang ai for teacher/button__1_2_3'))
 
 WebUI.click(findTestObject('Object Repository/class notice delete/Page_focuspang ai for teacher/button__1_2_3_4'))
+
+WebUI.delay(3)
 

@@ -16,23 +16,60 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import java.awt.Robot as Robot
+import java.awt.event.KeyEvent as KeyEvent
+import java.awt.Toolkit as Toolkit
+import java.awt.datatransfer.StringSelection as StringSelection
 
+// 로그인 테스트 케이스 호출
 WebUI.callTestCase(findTestCase('Teacher loin,logout/Focuspang_teacher_login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/file_share/Page_focuspang ai for teacher/div_11-1'))
+// 페이지 내 링크 및 파일 공유 작업
+WebUI.click(findTestObject('Object Repository/Link,File_share/Page_focuspang ai for teacher/monday_1class'))
 
-WebUI.click(findTestObject('Object Repository/file_share/Page_focuspang ai for teacher/div__1_2'))
+WebUI.click(findTestObject('Object Repository/Link,File_share/Page_focuspang ai for teacher/focustime_button'))
 
-WebUI.click(findTestObject('Object Repository/file_share/Page_focuspang ai for teacher/svg_Quit_chakra-icon chakra-accordion__icon_d97f05'))
+WebUI.click(findTestObject('Object Repository/Link,File_share/Page_focuspang ai for teacher/student_filelink_dropdown_button'))
 
-WebUI.click(findTestObject('Object Repository/file_share/Page_focuspang ai for teacher/input__chakra-input css-1cjy4zv'))
+WebUI.click(findTestObject('Object Repository/Link,File_share/Page_focuspang ai for teacher/share_url_input__button'))
 
-WebUI.setText(findTestObject('Object Repository/file_share/Page_focuspang ai for teacher/input__chakra-input css-1cjy4zv_1_2_3_4_5_6_7_8_9_10_11_12_13_14'), 
-    'www.naver.com')
+WebUI.setText(findTestObject('Object Repository/Link,File_share/Page_focuspang ai for teacher/link_url_button'), 'www.naver.com')
 
-WebUI.setText(findTestObject('Object Repository/file_share/Page_focuspang ai for teacher/input__field-r52'), '네이버')
+WebUI.setText(findTestObject('Object Repository/Link,File_share/Page_focuspang ai for teacher/link_title_button'), '네이버')
 
-WebUI.click(findTestObject('Object Repository/file_share/Page_focuspang ai for teacher/button__1_2'))
+WebUI.click(findTestObject('Object Repository/Link,File_share/Page_focuspang ai for teacher/Link_share_button'))
 
-WebUI.click(findTestObject('Object Repository/file_share/Page_focuspang ai for teacher/button__1_2_3'))
+// 파일 탭 및 파일 공유 버튼 클릭
+WebUI.click(findTestObject('Object Repository/Link,File_share/Page_focuspang ai for teacher/File_tab_button'))
+
+WebUI.click(findTestObject('Object Repository/Link,File_share/Page_focuspang ai for teacher/file_share_button'))
+
+WebUI.delay(2)
+
+// 파일 경로 설정 및 클립보드 복사
+String filePath = 'C:\\Users\\USER\\Desktop\\업무\\test.png'
+
+StringSelection selection = new StringSelection(filePath)
+
+Toolkit.getDefaultToolkit().getSystemClipboard().setContents(selection, null)
+
+// Robot 클래스를 사용하여 키보드 입력 실행
+Robot robot = new Robot()
+
+// Ctrl + V (경로 붙여넣기)
+robot.keyPress(KeyEvent.VK_CONTROL)
+
+robot.keyPress(KeyEvent.VK_V)
+
+robot.keyRelease(KeyEvent.VK_V)
+
+robot.keyRelease(KeyEvent.VK_CONTROL)
+
+// Enter 키 입력 (파일 선택)
+robot.keyPress(KeyEvent.VK_ENTER)
+
+robot.keyRelease(KeyEvent.VK_ENTER)
+
+// 업로드 후 잠시 대기
+WebUI.delay(2)
 

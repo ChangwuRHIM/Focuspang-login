@@ -10,11 +10,15 @@
          <value>button.chakra-button.css-1g7k7rl</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'classroom-toolbar-quit']</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[13]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>76b958a8-334d-49f9-b39c-f0d2bcc34aed</webElementGuid>
+      <webElementGuid>0fa3627d-3b00-4551-90f9-816e51a6904a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +35,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>46e90ba6-97e9-473e-90cd-9f2eebf733bf</webElementGuid>
+      <webElementGuid>a39191c3-150e-4379-884a-9f17f37880f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +43,7 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-button css-1g7k7rl</value>
-      <webElementGuid>750305c7-10eb-4b54-9db3-cd7fb4897f27</webElementGuid>
+      <webElementGuid>9fda74c8-642c-4e12-a8c8-950a44501697</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +51,7 @@
       <name>data-testid</name>
       <type>Main</type>
       <value>classroom-toolbar-quit</value>
-      <webElementGuid>57ea8e4b-ffd0-41ce-aef6-206fed0a177e</webElementGuid>
+      <webElementGuid>4c6e99f8-522a-4732-ae53-a0066259431b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +59,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>tooltip-:r3i:</value>
-      <webElementGuid>fda1b128-4847-4821-a4a7-1bbd6aec88fb</webElementGuid>
+      <webElementGuid>88c595cc-549c-461e-92e4-d4ace5e4fb9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +67,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Quit</value>
-      <webElementGuid>0204b0dc-7553-4bbf-b6ef-0991799c88af</webElementGuid>
+      <webElementGuid>289ca85e-de89-4839-8342-28ca3312b399</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;css-wrghvn&quot;]/div[@class=&quot;chakra-container css-10wiq0h&quot;]/div[@class=&quot;css-1mc2bby&quot;]/div[@class=&quot;css-10ft286&quot;]/div[@class=&quot;chakra-container css-w8e4xc&quot;]/div[@class=&quot;chakra-stack css-153vwuu&quot;]/div[@class=&quot;css-1ki54i&quot;]/div[@class=&quot;css-161gf0f&quot;]/div[@class=&quot;css-rszk63&quot;]/div[@class=&quot;chakra-stack css-2xph3x&quot;]/div[@class=&quot;css-rdwaf0&quot;]/div[@class=&quot;chakra-stack css-1y3f6ad&quot;]/div[@class=&quot;chakra-stack css-1nnsm85&quot;]/div[@class=&quot;chakra-stack css-1k5yd4s&quot;]/button[@class=&quot;chakra-button css-1g7k7rl&quot;]</value>
-      <webElementGuid>c8679ca0-d694-4cdd-b96b-d5be08bcda09</webElementGuid>
+      <webElementGuid>be85c508-803c-4623-a367-9aa2bad054c1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +83,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[13]</value>
-      <webElementGuid>dfb060ff-9b91-4075-bb57-b29caf05a5a9</webElementGuid>
+      <webElementGuid>ac7e93f1-4f38-4f26-b865-e6bb59bfb52f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='포커스타임'])[3]/following::button[7]</value>
-      <webElementGuid>397a76f0-1043-429f-a8f1-eef147af7006</webElementGuid>
+      <webElementGuid>dbf3ccf2-4e78-425d-aab9-812f56f0fd03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='로그아웃'])[1]/following::button[7]</value>
-      <webElementGuid>9d5e0bad-eb64-49e8-ad25-39097b164a69</webElementGuid>
+      <webElementGuid>1bfe292f-6af3-42eb-9d13-0b4b5ed67038</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='학생에게 자료 공유하기'])[1]/preceding::button[1]</value>
-      <webElementGuid>67754565-b36c-4d43-9d8f-7e36f163c7d2</webElementGuid>
+      <webElementGuid>d6b9cfc8-9c9f-4e6e-8d37-872aec160980</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='링크'])[1]/preceding::button[2]</value>
-      <webElementGuid>2f07792e-36ac-4f8b-b2ac-fa8a8b6aa536</webElementGuid>
+      <webElementGuid>5643b8b2-a3d8-4e56-bed3-42f2499e5ba3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +123,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Quit']/parent::*</value>
-      <webElementGuid>8e2cdcff-0c5c-47a7-902c-6ac971de2d01</webElementGuid>
+      <webElementGuid>b9e0e9bd-b7e3-4b59-b0bb-0db387569905</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +131,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/button</value>
-      <webElementGuid>925c7653-3748-4846-9f4d-22375db5414d</webElementGuid>
+      <webElementGuid>28f77059-69a1-435a-b38b-f23ebf6d8fde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +139,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@data-testid = 'classroom-toolbar-quit']</value>
-      <webElementGuid>0a257672-8b2c-483d-8062-dbfc6ec6faa6</webElementGuid>
+      <webElementGuid>d08f5cba-b178-4657-809e-f49ae26701b6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
