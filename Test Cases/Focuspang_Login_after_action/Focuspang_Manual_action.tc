@@ -4,7 +4,7 @@
 2. 포커스팡 메뉴얼 버튼 클릭&#xd;
 3. 영어,인도네시아,일본어,한국어 각 언어 화면 진입</description>
    <name>Focuspang_Manual_action</name>
-   <tag></tag>
+   <tag>Fail 없이 모두 정상 동작 한다</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>bfc5e917-5097-437b-849e-8861f0984b74</testCaseGuid>

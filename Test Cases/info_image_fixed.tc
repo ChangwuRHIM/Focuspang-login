@@ -7,7 +7,7 @@
 5.업무 폴더 test 이미지 선택&#xd;
 6.변경 버튼 클릭</description>
    <name>info_image_fixed</name>
-   <tag></tag>
+   <tag>Fail 없이 모두 정상 동작 한다</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>25602330-1fe1-4aa8-91fd-1097cfac90bb</testCaseGuid>

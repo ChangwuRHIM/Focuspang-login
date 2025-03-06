@@ -7,7 +7,7 @@
 5. 수요일 선택&#xd;
 6. 만들기 버튼 클릭</description>
    <name>focuspang_class_add</name>
-   <tag></tag>
+   <tag>Fail 없이 모두 정상 동작 한다</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>31b8d4e1-54d5-40e8-a533-21c69b1f32ab</testCaseGuid>

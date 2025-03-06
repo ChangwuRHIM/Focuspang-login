@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. 포커스팡 로그인&#xd;
+2. 추가된 수요일 수업 편집 아이콘 클릭&#xd;
+3. 삭제 버튼 클릭&#xd;
+4. 확인 버튼 클릭</description>
+   <name>focuspang_class_delete</name>
+   <tag>Fail 없이 모두 정상 동작 한다</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f2d8d903-db34-4bcd-8d36-140ae6fcba77</testCaseGuid>
+</TestCaseEntity>

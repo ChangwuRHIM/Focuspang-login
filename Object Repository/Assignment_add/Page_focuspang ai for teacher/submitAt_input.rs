@@ -12,7 +12,7 @@
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[@data-testid = 'submitAt-input']</value>
+         <value>//*[@data-testid = 'submit-at-input']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -24,14 +24,14 @@
       <name>type</name>
       <type>Main</type>
       <value>datetime-local</value>
-      <webElementGuid>50bf2d3f-5736-4b0a-b268-c0f14bb06e7c</webElementGuid>
+      <webElementGuid>387ac776-5279-49b4-901e-18bf7c4ec336</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-testid</name>
       <type>Main</type>
-      <value>submitAt-input</value>
-      <webElementGuid>44ac2d39-1731-4a9f-8b5a-823edf2abbb7</webElementGuid>
+      <value>submit-at-input</value>
+      <webElementGuid>99405a3a-5c3f-4faa-b4fd-75585a3d6f12</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

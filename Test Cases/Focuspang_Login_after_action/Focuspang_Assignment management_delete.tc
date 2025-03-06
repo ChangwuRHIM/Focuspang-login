@@ -6,7 +6,7 @@
 4.과제 관리 목록 삭제 버튼클릭한다&#xd;
 5.팝업에서 삭제 버튼 클릭한다</description>
    <name>Focuspang_Assignment management_delete</name>
-   <tag></tag>
+   <tag>Fail 없이 모두 정상 동작 한다</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>3f098558-111a-4019-a870-45c2e90d5ea1</testCaseGuid>

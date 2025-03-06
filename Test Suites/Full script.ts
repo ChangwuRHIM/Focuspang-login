@@ -96,10 +96,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>f3ae50cb-47e4-4085-a6df-165035e6e34a</guid>
+      <guid>8ebddd6c-908d-4bbf-9cef-60bc562c5bae</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Focuspang_Timeline_action/Focuspang_timelineafter_focustime_start</testCaseId>
+      <testCaseId>Test Cases/Focuspang_Timeline_action/Focuspang_timeline_after_Class notice_new_add</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -110,24 +110,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>8ebddd6c-908d-4bbf-9cef-60bc562c5bae</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Focuspang_Timeline_action/Focuspang_timeline_after_Class notice_new_add</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>e839acf7-d4b7-4d16-88e1-8ffe738d06de</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Focuspang_Timeline_action/Focuspang_timeline_after_Focustime_start_end</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>afe2d2ab-1809-43f2-a82e-b216105849e1</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Focustime_features</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

@@ -7,7 +7,7 @@
 5.포커스타임 시작 버튼 클릭한다&#xd;
 6.Quit버튼 클릭한다</description>
    <name>Focuspang_timeline_after_Focustime_start_end</name>
-   <tag></tag>
+   <tag>Fail 없이 모두 정상 동작 한다</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>6654ae97-e6e5-40f2-9152-0f8e7152d483</testCaseGuid>

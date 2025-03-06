@@ -4,7 +4,7 @@
 2.퀴즈팡 클릭한다&#xd;
 3.삭제버튼 클릭한다</description>
    <name>Focuspang_quizset_delete</name>
-   <tag></tag>
+   <tag>Fail 없이 모두 정상 동작 한다</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>5f7916f5-981b-45e8-92f2-2a475dd84aba</testCaseGuid>

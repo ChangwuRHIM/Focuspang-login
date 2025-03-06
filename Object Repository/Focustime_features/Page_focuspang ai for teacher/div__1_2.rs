@@ -3,15 +3,15 @@
    <description></description>
    <name>div__1_2</name>
    <tag></tag>
-   <elementGuidId>b254b7fb-d372-4eab-9ee6-5ffebe91d788</elementGuidId>
+   <elementGuidId>031aa698-77f0-40d3-b85c-0c71b0908da1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>div.css-w0crzw</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='수업 공지'])[1]/following::div[1]</value>
+         <value>//div[@id='chakra-modal--body-:R6kvf5t5ufja:']/div[2]/label/span[2]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -23,70 +23,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8f4b32ea-887d-4f69-9e05-6c022d6bfcac</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>group</value>
-      <webElementGuid>a07de32a-867c-413c-a536-6d6b34294441</webElementGuid>
+      <webElementGuid>fb7ad2b2-bbfc-4889-b57c-30b73c4cd902</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>css-f1yw6l</value>
-      <webElementGuid>4c97c86d-b676-43f6-a746-b30b67e34b94</webElementGuid>
+      <value>css-w0crzw</value>
+      <webElementGuid>5df5b6aa-1ff4-4f71-83d6-43feba1a437e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>포커스타임</value>
-      <webElementGuid>ffa9e340-48d8-4fc4-b5a7-0a87c36a6c30</webElementGuid>
+      <value> 다시 보지 않기</value>
+      <webElementGuid>e8bd4069-5cc7-448f-99a0-85ec58701796</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;css-wrghvn&quot;]/div[@class=&quot;chakra-container css-10wiq0h&quot;]/div[@class=&quot;css-1mc2bby&quot;]/div[@class=&quot;css-etfmaf&quot;]/div[@class=&quot;css-1lcejj2&quot;]/a[@class=&quot;css-7fj8q3&quot;]/div[@class=&quot;css-f1yw6l&quot;]</value>
-      <webElementGuid>de7b8032-b273-4487-9837-a129ac161dd5</webElementGuid>
+      <value>id(&quot;chakra-modal--body-:R6kvf5t5ufja:&quot;)/div[@class=&quot;chakra-stack css-11bebky&quot;]/label[@class=&quot;chakra-checkbox css-8efisn&quot;]/span[@class=&quot;chakra-checkbox__label css-r90m2q&quot;]/div[@class=&quot;css-w0crzw&quot;]</value>
+      <webElementGuid>23e5ed19-adad-49fe-b51a-749201428496</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='수업 공지'])[1]/following::div[1]</value>
-      <webElementGuid>a667f2f6-653d-42d2-9623-0bd7269f0725</webElementGuid>
+      <value>//div[@id='chakra-modal--body-:R6kvf5t5ufja:']/div[2]/label/span[2]/div</value>
+      <webElementGuid>60ea3f60-0b9a-40e4-b2f1-d4f269359e48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='처음으로'])[1]/following::div[2]</value>
-      <webElementGuid>560913cf-4739-41e9-b6e4-42932bcfb0bf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='도와주세요'])[1]/following::div[19]</value>
+      <webElementGuid>79715cc7-a993-4b2d-9858-8d6af3defb9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='퀴즈팡'])[1]/preceding::div[1]</value>
-      <webElementGuid>38cbd7e3-33c8-4cf3-879c-f57d05a484cf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='아이디/비밀번호 찾기'])[1]/following::div[19]</value>
+      <webElementGuid>2b1adff5-4a1c-45f3-b91d-05ba3d4baeb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='닫기'])[1]/preceding::div[1]</value>
+      <webElementGuid>d7843226-76a6-4541-9a61-ada628aac9ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='다시 보지 않기']/parent::*</value>
+      <webElementGuid>4b3051ea-02f6-4e87-90c9-81ab9762fd7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//a[3]/div</value>
-      <webElementGuid>02223374-9dc6-401f-a549-7b1f5fd95272</webElementGuid>
+      <value>//span[2]/div</value>
+      <webElementGuid>285b5e8e-5e1c-4161-bcb4-325eacd3b409</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>div_</name>
    <tag></tag>
-   <elementGuidId>25801b2d-e436-4608-a318-a13841b99f9a</elementGuidId>
+   <elementGuidId>8f69c828-8809-436a-bc78-e1cb3e5d6cb4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>91ea05f2-a0e3-4dad-8c5c-9688d8b4c352</webElementGuid>
+      <webElementGuid>d7e6475a-cf15-47e4-b902-fa7af611d8a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,15 +31,15 @@
       <name>class</name>
       <type>Main</type>
       <value>css-w0crzw</value>
-      <webElementGuid>cea00c6a-f6e0-487c-86c4-a50df2d573f3</webElementGuid>
+      <webElementGuid>c170e340-3855-4055-ba4e-5c08eb09b439</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>다시 보지 않기</value>
-      <webElementGuid>59bda8a2-439e-4c74-acd2-e630b80feb4f</webElementGuid>
+      <value> 다시 보지 않기</value>
+      <webElementGuid>493eac3a-06a2-4dc5-9f1f-61857b618248</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;chakra-modal--body-:R7kvf5t5ufja:&quot;)/footer[@class=&quot;chakra-modal__footer css-16ltw6x&quot;]/div[@class=&quot;chakra-stack css-11ehgu5&quot;]/label[@class=&quot;chakra-checkbox css-8efisn&quot;]/span[@class=&quot;chakra-checkbox__label css-r90m2q&quot;]/div[@class=&quot;css-w0crzw&quot;]</value>
-      <webElementGuid>db5d942b-17ba-4a6c-a526-6b5b49a8eb82</webElementGuid>
+      <webElementGuid>76dc7d48-759a-4ee0-9ca6-e00b477f89d0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='chakra-modal--body-:R7kvf5t5ufja:']/footer/div/label/span[2]/div</value>
-      <webElementGuid>d8b98e19-8351-4a8d-ae11-1a14a63381e5</webElementGuid>
+      <webElementGuid>0b438b12-5aa3-474b-b716-3f839b4b07ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='기기 부팅 후 일정 시간이 지나면 꺼지며 Android 팩토리 모드로 진입하는 현상'])[1]/following::div[2]</value>
-      <webElementGuid>3b0737a1-f9aa-4db7-a3f4-c26d9de87dc2</webElementGuid>
+      <webElementGuid>f5732395-81fa-4a6e-ad56-a48d37a95403</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='굿노트와 같은 특정 앱의 사용 불가 현상'])[1]/following::div[2]</value>
-      <webElementGuid>7cc063ec-bb98-4b10-a759-992f68026841</webElementGuid>
+      <webElementGuid>a19467a5-71a1-484b-b908-3320f148b584</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='닫기'])[2]/preceding::div[1]</value>
-      <webElementGuid>aedbdffd-14b2-4296-8bb3-b2b0d4189dd5</webElementGuid>
+      <webElementGuid>6f6a0397-421b-4224-b06f-75399c35fed0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//footer/div/label/span[2]/div</value>
-      <webElementGuid>a8a6e7bc-0bb4-45e4-b0d8-9a7bf2845066</webElementGuid>
+      <webElementGuid>183938a3-c9fe-480e-a40c-9f10f44723b0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

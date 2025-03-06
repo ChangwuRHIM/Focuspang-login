@@ -6,7 +6,7 @@
 4.학생 명단에서 내보내기 버튼클릭한다&#xd;
 5.팝업에서 내보내기 버튼클릭한다.</description>
    <name>student_list_delete</name>
-   <tag></tag>
+   <tag>Fail 없이 모두 정상 동작 한다</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>7f1ef642-c3c6-47fc-aba8-34526caa65bf</testCaseGuid>

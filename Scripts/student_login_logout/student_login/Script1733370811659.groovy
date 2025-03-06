@@ -24,28 +24,28 @@ WebUI.navigateToUrl('https://qa.student.focuspang.ai/login')
 WebUI.click(findTestObject('Object Repository/Page_focuspang ai student/button_'))
 
 WebUI.setText(findTestObject('Object Repository/Page_focuspang ai student/input_concat(id(, , pin-input-r4-0, , ))_pi_29be13'), 
-    '7')
+    'd')
 
 WebUI.setText(findTestObject('Object Repository/Page_focuspang ai student/input_concat(id(, , pin-input-r4-1, , ))_pi_f4fde3'), 
-    '1')
+    '6')
 
 WebUI.setText(findTestObject('Object Repository/Page_focuspang ai student/input_concat(id(, , pin-input-r4-2, , ))_pi_2ee6b2'), 
-    'e')
+    '0')
 
 WebUI.setText(findTestObject('Object Repository/Page_focuspang ai student/input_concat(id(, , pin-input-r4-3, , ))_pi_696240'), 
-    'a')
+    'd')
 
 WebUI.setText(findTestObject('Object Repository/Page_focuspang ai student/input_concat(id(, , pin-input-r4-4, , ))_pi_f6ecbc'), 
-    '8')
+    '1')
 
 WebUI.setText(findTestObject('Object Repository/Page_focuspang ai student/input_concat(id(, , pin-input-r4-5, , ))_pi_d79f4b'), 
-    'c')
+    '3')
 
 WebUI.setText(findTestObject('Object Repository/Page_focuspang ai student/input_concat(id(, , pin-input-r4-6, , ))_pi_56b678'), 
     '7')
 
 WebUI.setText(findTestObject('Object Repository/Page_focuspang ai student/input_concat(id(, , pin-input-r4-7, , ))_pi_21b65d'), 
-    '1')
+    '6')
 
 Mobile.delay(2, FailureHandling.STOP_ON_FAILURE)
 

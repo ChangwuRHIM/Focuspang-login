@@ -8,7 +8,7 @@
 6.이름 자동화삭제명단 으로 수정&#xd;
 7.수정 버튼 클릭</description>
    <name>student_list_info_fix</name>
-   <tag>모두 정상동작 되어야 한다.</tag>
+   <tag>Fail 없이 모두 정상 동작 한다</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>a8666188-f2a8-4350-8f46-b4c28709f79b</testCaseGuid>

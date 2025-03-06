@@ -3,7 +3,7 @@
    <description></description>
    <name>button__1_2</name>
    <tag></tag>
-   <elementGuidId>6cab945b-cc89-4318-a4b6-b4fb08b83421</elementGuidId>
+   <elementGuidId>c13a26d0-ff51-4dc3-bd07-d0edf903a9ab</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5f0196a0-0a42-4f92-ab30-68851030f012</webElementGuid>
+      <webElementGuid>1607b2da-3dac-4128-aec9-0cdc880650b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>90b74429-ca0e-4c4d-9bd4-eefb10da84e7</webElementGuid>
+      <webElementGuid>03663b5b-6226-41ff-b7b5-0e47636a3389</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-button css-1749gbk</value>
-      <webElementGuid>b8ccd857-93b1-41c3-a004-062a009d1acc</webElementGuid>
+      <webElementGuid>c8ced967-8de3-4ad7-bf9f-fd87e1a41b9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>data-testid</name>
       <type>Main</type>
       <value>login-submit-button</value>
-      <webElementGuid>1f29a01e-f3d2-489f-9b2e-03dececd55db</webElementGuid>
+      <webElementGuid>ac442835-3136-43b2-9fa4-d62991eb3366</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>로그인</value>
-      <webElementGuid>cc224f08-2f85-480a-89e9-b2ea3c1a0b63</webElementGuid>
+      <webElementGuid>1d39537b-28c9-4006-ba32-b3d8e9b02d00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;chakra-container css-11vl7h3&quot;]/div[@class=&quot;chakra-stack css-3tfspr&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;chakra-stack css-1811skr&quot;]/form[@class=&quot;flex w-full&quot;]/div[@class=&quot;chakra-stack css-o1jcy9&quot;]/button[@class=&quot;chakra-button css-1749gbk&quot;]</value>
-      <webElementGuid>f85d2312-3d03-4fa6-b821-0eeaf185bf4d</webElementGuid>
+      <webElementGuid>9eb4003d-26f6-466a-bcff-b3609c018554</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>9f8765b2-3c69-41d6-a22a-db0051e010d9</webElementGuid>
+      <webElementGuid>bbb2fb66-ce5c-4cb9-aa82-9e184d0e805d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='회원가입'])[1]/preceding::button[1]</value>
-      <webElementGuid>1e27e2fc-e02f-426f-9582-91a5cffe9e28</webElementGuid>
+      <webElementGuid>d7fae4a3-b2b8-4db3-b18a-99b95706ac67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='아이디/비밀번호 찾기'])[1]/preceding::button[2]</value>
-      <webElementGuid>282b1c20-3add-4363-b61a-5ddeeafac061</webElementGuid>
+      <webElementGuid>f59b1a32-9657-4749-9baa-82223e454af1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='로그인']/parent::*</value>
-      <webElementGuid>610d4279-82a8-4345-8b0f-43f83904d988</webElementGuid>
+      <webElementGuid>68d47edf-4e2a-4857-9f36-a9f25e4d7317</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>f0d27ece-7df2-4027-921b-db384b6c75f3</webElementGuid>
+      <webElementGuid>e15a04e1-ac8d-40a7-a5ce-1e592ec24647</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@data-testid = 'login-submit-button']</value>
-      <webElementGuid>77cb3a18-fd5f-4cb1-a1e9-86e2cc17df8e</webElementGuid>
+      <webElementGuid>06e19768-bf5b-4f02-b594-6cfff262e597</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

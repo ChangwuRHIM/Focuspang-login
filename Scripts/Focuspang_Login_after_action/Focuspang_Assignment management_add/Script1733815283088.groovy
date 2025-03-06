@@ -40,9 +40,9 @@ WebUI.setText(findTestObject('Object Repository/Assignment_add/Page_focuspang ai
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/Assignment_add/Page_focuspang ai for teacher/p (1)'))
+WebUI.click(findTestObject('Object Repository/Assignment_add/Page_focuspang ai for teacher/p'))
 
-WebUI.setText(findTestObject('Object Repository/Assignment_add/Page_focuspang ai for teacher/p (1)'), '테스트')
+WebUI.setText(findTestObject('Object Repository/Assignment_add/Page_focuspang ai for teacher/p'), '테스트')
 
 WebUI.delay(3)
 

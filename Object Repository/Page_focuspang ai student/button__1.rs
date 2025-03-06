@@ -6,12 +6,16 @@
    <elementGuidId>0737bc6c-526e-48e1-9fad-cce7847f85ad</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.chakra-button.css-duymqu</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = '다음' or . = '다음')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.chakra-button.css-duymqu</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4788b26b-59a1-4dac-ad3c-91cd7878bf86</webElementGuid>
+      <webElementGuid>9ba57493-664e-4a46-bd01-0b2a5b054c08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +35,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a7c2e686-0cd3-4c54-aabb-cedcee735f56</webElementGuid>
+      <webElementGuid>ad745592-1a13-4338-bfcf-a32cf32b7dcf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +43,7 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-button css-duymqu</value>
-      <webElementGuid>5072c4c8-1387-45d7-8522-f0b00098cc5d</webElementGuid>
+      <webElementGuid>36770f02-0249-4fff-9e1c-08ead703baa4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +51,7 @@
       <name>text</name>
       <type>Main</type>
       <value>다음</value>
-      <webElementGuid>ecc2a067-1be9-47cf-bbaf-22bb32503cf3</webElementGuid>
+      <webElementGuid>f201467b-79ca-40b9-9346-1adb43e770fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +59,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;chakra-modal-:Ramuubpnla:&quot;)/footer[@class=&quot;chakra-modal__footer css-k0waxj&quot;]/div[@class=&quot;chakra-button__group css-1ind3v2&quot;]/button[@class=&quot;chakra-button css-duymqu&quot;]</value>
-      <webElementGuid>40460392-6ef9-4b96-bf06-c4842c71434b</webElementGuid>
+      <webElementGuid>cc6c1159-f807-4140-926a-9f4dd5d70677</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +67,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[5]</value>
-      <webElementGuid>3c82800f-8b00-401d-8bd5-ac6fcc612259</webElementGuid>
+      <webElementGuid>0969202c-57c5-45a4-b835-8049e0b8a61e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='chakra-modal-:Ramuubpnla:']/footer/div/button[2]</value>
-      <webElementGuid>a720a68d-ea32-4812-a3f8-b08e991accd0</webElementGuid>
+      <webElementGuid>a515c5b3-021c-4d61-9c00-fcfda71c2d9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +83,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='닫기'])[1]/following::button[1]</value>
-      <webElementGuid>a3a4f4bc-f968-4860-9c25-f04d4a28e7a7</webElementGuid>
+      <webElementGuid>57315dcf-8fef-4e42-bc1e-018c5c52f23c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='초대코드는 영문과 숫자로만 입력 가능합니다. 키보드 한영 전환을 확인해주세요.'])[1]/following::button[3]</value>
-      <webElementGuid>8f5ecec6-0e86-42cd-8198-63e7e8dbfc67</webElementGuid>
+      <webElementGuid>7441b920-6733-40d2-92ef-8da60423878e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='다음']/parent::*</value>
-      <webElementGuid>d14ebaff-c68d-419a-b9cd-3e66ab2a05c9</webElementGuid>
+      <webElementGuid>d9d5e037-c43b-4d56-8ff2-4c9653bea159</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +107,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//footer/div/button[2]</value>
-      <webElementGuid>03b041b4-ff8e-490b-a09e-e8b006c05c38</webElementGuid>
+      <webElementGuid>5533bd83-5b9d-4595-a407-5f6e7159715c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +115,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = '다음' or . = '다음')]</value>
-      <webElementGuid>60c03e0e-cd20-47ab-a486-ee809a07b72c</webElementGuid>
+      <webElementGuid>346afc2e-2c93-403f-b78a-fd1da3b860a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +123,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>b917b2f7-ca7b-4f99-8f9d-e44d9ecd1f9c</webElementGuid>
+      <webElementGuid>0bc00165-c4b7-42c3-be14-1a90c11f3039</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +131,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='도와주세요'])[1]/following::button[2]</value>
-      <webElementGuid>7415517f-0bd6-4679-99cf-0709d6e22e97</webElementGuid>
+      <webElementGuid>0121a671-d57f-464e-8d91-4d78b1323de9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

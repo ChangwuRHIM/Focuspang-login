@@ -9,7 +9,7 @@
 7.내용을 입력한다&#xd;
 8.등록 버튼을 클릭한다</description>
    <name>Focuspang_Assignment management_add</name>
-   <tag></tag>
+   <tag>Fail 없이 모두 정상 동작 한다</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>8c18d6dc-bb61-4aeb-b995-65646b9878e0</testCaseGuid>
