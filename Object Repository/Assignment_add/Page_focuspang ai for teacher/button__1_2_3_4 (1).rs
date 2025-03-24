@@ -13,6 +13,10 @@
          <key>XPATH</key>
          <value>(//button[@type='button'])[15]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'submit-button']</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ddd4f904-deb0-4b5c-98c0-bdafdc7efd2b</webElementGuid>
+      <webElementGuid>63d0d933-ff6f-4862-a0c1-28b07dfae291</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +35,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>da9308cf-75a1-4240-8ab1-63f0be757734</webElementGuid>
+      <webElementGuid>247055e0-d805-418a-9172-7289b3a9d256</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +43,7 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-button css-1749gbk</value>
-      <webElementGuid>d82d9fb5-7e52-41ff-aaee-9aada63cc7df</webElementGuid>
+      <webElementGuid>ccc53277-0943-476a-99bd-5580c5d3a5a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,15 +51,23 @@
       <name>text</name>
       <type>Main</type>
       <value>등록</value>
-      <webElementGuid>183ddea9-2727-425b-bac4-7235bf950670</webElementGuid>
+      <webElementGuid>8b25182f-117b-4e94-9901-991fd2c6a1ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;css-wrghvn&quot;]/div[@class=&quot;chakra-container css-10wiq0h&quot;]/div[@class=&quot;css-1mc2bby&quot;]/div[@class=&quot;css-10ft286&quot;]/div[@class=&quot;chakra-container css-w8e4xc&quot;]/div[@class=&quot;chakra-stack css-153vwuu&quot;]/div[@class=&quot;chakra-container css-1voosvd&quot;]/div[@class=&quot;chakra-stack css-1811skr&quot;]/div[@class=&quot;chakra-stack css-17rrr20&quot;]/button[@class=&quot;chakra-button css-1749gbk&quot;]</value>
-      <webElementGuid>9c7b213b-3563-4f43-a069-356c381c5453</webElementGuid>
+      <webElementGuid>7bdf1d9b-7baa-4c85-900e-0e859874ec13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>submit-button</value>
+      <webElementGuid>e208c3f5-6dc5-49e8-9b74-d4a69d91b1f2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +75,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[15]</value>
-      <webElementGuid>ee614872-2dbe-4b2d-9b2b-5f497ac806e8</webElementGuid>
+      <webElementGuid>ca7eabc2-9554-41a8-a9e2-c3e54278a5c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +83,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[1]/following::button[1]</value>
-      <webElementGuid>d6b47bd3-7d9c-4bed-b38c-f13bef42bb58</webElementGuid>
+      <webElementGuid>584adba9-8cac-4a8e-8521-a0468d104f0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='공지할 반 추가하기'])[1]/following::button[7]</value>
-      <webElementGuid>a8dc6dae-31a8-4e60-8c0f-2f27542a3850</webElementGuid>
+      <webElementGuid>ed0d8e8c-a792-4b8c-994d-88ca2e80cd16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='등록']/parent::*</value>
-      <webElementGuid>d2e98b96-7616-4b29-9d75-4c2aca089703</webElementGuid>
+      <webElementGuid>9ba0b8c6-a151-4e1f-a7e7-cbbb5d99e143</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +107,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/button[2]</value>
-      <webElementGuid>c8dcfef2-6418-4ea0-84ea-26657a7e94d9</webElementGuid>
+      <webElementGuid>b88e388e-de5d-4025-b785-562bec771d46</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,10 +29,6 @@ WebUI.click(findTestObject('Object Repository/teacher_login_0220/Page_focuspang 
 
 WebUI.click(findTestObject('Object Repository/teacher_login_0220/Page_focuspang ai for teacher/button__1_2_3'))
 
-WebUI.click(findTestObject('Object Repository/teacher_login_0220/Page_focuspang ai for teacher/span__chakra-checkbox__control css-1dc7bm0_1_2_3'))
-
-WebUI.click(findTestObject('Object Repository/teacher_login_0220/Page_focuspang ai for teacher/button__1_2_3_4_5'))
-
 WebUI.setText(findTestObject('Object Repository/teacher_login_0220/Page_focuspang ai for teacher/input__id'), 'changwu_rhim@focuspang.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/teacher_login_0220/Page_focuspang ai for teacher/input__password'), 

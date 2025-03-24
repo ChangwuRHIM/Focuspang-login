@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button__clean-btn menu__caret</name>
+   <tag></tag>
+   <elementGuidId>cc791645-a56b-4476-a395-d049e370f53f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.theme-doc-sidebar-item-category.theme-doc-sidebar-item-category-level-1.menu__list-item.menu__list-item--collapsed > div.menu__list-item-collapsible > button.clean-btn.menu__caret</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;사이드바 분류 '선생님용 포커스팡' 펼치기&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b482af79-5006-4fa5-979b-11a8b7c9d804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>사이드바 분류 '선생님용 포커스팡' 펼치기</value>
+      <webElementGuid>428d6afe-cd1f-4c75-8ae5-290fc170f0e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>dcef919d-a44d-4cd8-a4b1-8b4b64f9fc0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5d4d6413-e5a1-4134-8628-ad2d789d494f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clean-btn menu__caret</value>
+      <webElementGuid>3fc55052-48f7-4ff5-a1d8-52f0726e0dc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__docusaurus_skipToContent_fallback&quot;)/div[@class=&quot;docsWrapper_hBAB&quot;]/div[@class=&quot;docRoot_UBD9&quot;]/aside[@class=&quot;theme-doc-sidebar-container docSidebarContainer_YfHR&quot;]/div[@class=&quot;sidebarViewport_aRkj&quot;]/div[@class=&quot;sidebar_njMd&quot;]/nav[@class=&quot;menu thin-scrollbar menu_SIkG&quot;]/ul[@class=&quot;theme-doc-sidebar-menu menu__list&quot;]/li[@class=&quot;theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed&quot;]/div[@class=&quot;menu__list-item-collapsible&quot;]/button[@class=&quot;clean-btn menu__caret&quot;]</value>
+      <webElementGuid>5a5f9290-348f-4f93-89b8-44a0eaed5067</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>e76334a2-10b4-4070-b49f-ce1cfbc82d26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__docusaurus_skipToContent_fallback']/div/div/aside/div/div/nav/ul/li[2]/div/button</value>
+      <webElementGuid>1a2972c1-c0dc-49e1-83fa-d9d08e09a633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/button</value>
+      <webElementGuid>4a4d0008-aecd-4480-adfc-a140fc96b4eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

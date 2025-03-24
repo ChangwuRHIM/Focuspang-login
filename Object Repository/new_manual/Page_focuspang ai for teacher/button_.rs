@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>quiz_save_button</name>
+   <name>button_</name>
    <tag></tag>
-   <elementGuidId>5d605199-725c-4cc4-b433-925a71682eae</elementGuidId>
+   <elementGuidId>0bab5ab9-19ac-46cf-ac86-f003ba412b0a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.chakra-button.css-sdnea5</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[32]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@data-testid = 'save-button']</value>
+         <value>(//button[@type='button'])[5]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;focuspang-middle-school-free-license-notice-close-button&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -27,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8976b5b4-d2fa-4325-ac7a-e87a3d868fea</webElementGuid>
+      <webElementGuid>a4b911f6-7f2f-499a-8329-3a7e25deef0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -35,86 +37,86 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3a7a1c46-f538-49c5-a842-7319587d291f</webElementGuid>
+      <webElementGuid>7816fb22-aff6-4435-a06b-c61e2824d437</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>chakra-button css-sdnea5</value>
-      <webElementGuid>2cdd88b4-2295-4c8b-b4e3-a12ada519ba3</webElementGuid>
+      <value>chakra-button css-mhxgfw</value>
+      <webElementGuid>247278ea-a08d-4827-8bd3-c02318578df6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-testid</name>
       <type>Main</type>
-      <value>save-button</value>
-      <webElementGuid>8f21f0e7-f3e4-49dc-bb53-45fd3e6aeed1</webElementGuid>
+      <value>focuspang-middle-school-free-license-notice-close-button</value>
+      <webElementGuid>c67d61dc-a006-4300-a9c6-af6e6b62e48d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>저장하기</value>
-      <webElementGuid>e5dd90e8-808a-44a6-a7c1-f3b369490398</webElementGuid>
+      <value>닫기</value>
+      <webElementGuid>338697ec-2b15-496b-bb9e-feac9a73ee20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;css-wrghvn&quot;]/div[@class=&quot;chakra-container css-10wiq0h&quot;]/div[@class=&quot;css-1mc2bby&quot;]/div[@class=&quot;css-10ft286&quot;]/div[@class=&quot;chakra-container css-w8e4xc&quot;]/div[@class=&quot;chakra-stack css-153vwuu&quot;]/div[@class=&quot;chakra-stack css-1wmlxa4&quot;]/div[@class=&quot;chakra-card css-2zk5z0&quot;]/div[@class=&quot;chakra-stack css-1hluggd&quot;]/div[@class=&quot;chakra-container css-1voosvd&quot;]/div[@class=&quot;chakra-stack css-1811skr&quot;]/div[@class=&quot;chakra-stack css-17rrr20&quot;]/button[@class=&quot;chakra-button css-sdnea5&quot;]</value>
-      <webElementGuid>3cbb038f-2951-4d2e-8374-827a81b331f1</webElementGuid>
+      <value>id(&quot;chakra-modal--body-:R3qfninknqfja:&quot;)/footer[@class=&quot;chakra-modal__footer css-16ltw6x&quot;]/div[@class=&quot;chakra-stack css-11ehgu5&quot;]/button[@class=&quot;chakra-button css-mhxgfw&quot;]</value>
+      <webElementGuid>c49a049d-3f77-42bf-a6b8-dd23ca1655bf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[32]</value>
-      <webElementGuid>ed382bf7-db48-4f94-aa0c-e5985ab7972a</webElementGuid>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>f99cc8e5-4753-4615-9511-eafe2452b2d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chakra-modal--body-:R3qfninknqfja:']/footer/div/button</value>
+      <webElementGuid>76af01a5-520a-4455-b662-25a9799d23bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[1]/following::button[1]</value>
-      <webElementGuid>d280f930-7ac5-4dfb-a06d-ebdf9cccc8cc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='다시 보지 않기'])[2]/following::button[1]</value>
+      <webElementGuid>24b9384c-58f6-433f-b345-edfae3a18b15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='보기 추가'])[1]/following::button[6]</value>
-      <webElementGuid>fb5c07cd-aee6-4457-b147-89e75041f212</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='저장하기']/parent::*</value>
-      <webElementGuid>a6d2364b-7d6a-4d0d-bdfc-b49a8f532b46</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='포커스팡 라이선스를 무료'])[1]/following::button[1]</value>
+      <webElementGuid>fdfabb27-6558-48a0-a884-e0d46f8d7fb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[9]/button[2]</value>
-      <webElementGuid>4c68673c-4164-459f-b255-8f155094e0da</webElementGuid>
+      <value>//div[5]/div[3]/div/section/div/footer/div/button</value>
+      <webElementGuid>a9001304-980d-4e0d-b268-92266694dd09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @data-testid = 'save-button']</value>
-      <webElementGuid>490ac1e0-9d00-4282-b70e-f16b73b90996</webElementGuid>
+      <value>//button[@data-testid = 'focuspang-middle-school-free-license-notice-close-button']</value>
+      <webElementGuid>0c35c2b3-484c-4c45-9aa2-e50a357dd40c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

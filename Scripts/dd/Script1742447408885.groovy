@@ -14,46 +14,8 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
-import com.kms.katalon.core.webui.common.WebUiCommonHelper
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import org.openqa.selenium.WebElement
-
-WebUI.callTestCase(findTestCase('focustime_start'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Object Repository/focustime_features/Page_focuspang ai for teacher/button__chakra-button css-138310v'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Object Repository/focustime_features/Page_focuspang ai for teacher/button__chakra-button css-10742wj'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Object Repository/focustime_features/Page_focuspang ai for teacher/button__chakra-button css-138310v_1_2'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Object Repository/focustime_features/Page_focuspang ai for teacher/button__chakra-button css-138310v_1_2'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Object Repository/focustime_features/Page_focuspang ai for teacher/button__chakra-button css-138310v_1_2_3'))
-
-WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/focustime_features/Page_focuspang ai for teacher/button__1_2_3_4 (1)'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Object Repository/focustime_features/Page_focuspang ai for teacher/button_-5'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Object Repository/focustime_features/Page_focuspang ai for teacher/button_5'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Object Repository/focustime_features/Page_focuspang ai for teacher/button_Quit'))
 

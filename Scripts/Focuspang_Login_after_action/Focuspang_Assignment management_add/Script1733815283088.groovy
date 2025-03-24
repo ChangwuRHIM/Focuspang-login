@@ -33,8 +33,6 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('Assignment_add/Page_focuspang ai for teacher/assignment_add_button'))
 
-WebUI.click(findTestObject('18/Page_focuspang ai for teacher/div_Back'), FailureHandling.STOP_ON_FAILURE)
-
 // 과제 제목 및 설명 입력
 WebUI.setText(findTestObject('Object Repository/Assignment_add/Page_focuspang ai for teacher/input__field-r4g (1)'), '과제테스트')
 
@@ -44,7 +42,7 @@ WebUI.click(findTestObject('Object Repository/Assignment_add/Page_focuspang ai f
 
 WebUI.setText(findTestObject('Object Repository/Assignment_add/Page_focuspang ai for teacher/p'), '테스트')
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 // 날짜 및 시간 입력 필드 처리
 WebDriver driver = DriverFactory.getWebDriver()
@@ -78,11 +76,11 @@ WebUI.delay(2)
 // 필드 blur 처리
 WebUI.executeJavaScript('document.querySelector("input[type=\'datetime-local\']").blur();', null)
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 // 과제 추가 버튼 클릭
 WebUI.waitForElementClickable(findTestObject('Object Repository/Assignment_add/Page_focuspang ai for teacher/button__1_2_3_4 (1)'), 
-    10)
+    4)
 
 WebUI.click(findTestObject('Object Repository/Assignment_add/Page_focuspang ai for teacher/button__1_2_3_4 (1)'))
 

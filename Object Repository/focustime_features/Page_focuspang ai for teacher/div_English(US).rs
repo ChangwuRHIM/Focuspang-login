@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_English(US)</name>
+   <tag></tag>
+   <elementGuidId>3cb8056b-617a-4438-b530-125c226868aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.chakra-stack.css-h2278w</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;스마트한 오프라인 수업 운영과 학생케어 서비스포커스팡에 오신 것을 환영합니다!아직 회원이 아니신가요? 지금 회원가입 하기아이디/비밀번호 찾기로그&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b0bc7350-52fe-4024-8759-4a327457b454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-stack css-h2278w</value>
+      <webElementGuid>12335d90-f958-44b0-9679-f7f7a01f6d59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>스마트한 오프라인 수업 운영과 학생케어 서비스포커스팡에 오신 것을 환영합니다!아직 회원이 아니신가요? 지금 회원가입 하기아이디/비밀번호 찾기로그인English(US)한국어도움이 필요하신가요? 포커스팡에 문의하기</value>
+      <webElementGuid>93c00fbf-c998-4982-bf3a-6138c4845cba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;chakra-container css-hw8wqk&quot;]/div[@class=&quot;chakra-stack css-14ioh8&quot;]/div[@class=&quot;chakra-stack css-h2278w&quot;]</value>
+      <webElementGuid>62148918-febb-4ec8-8f86-14bafbe8c4b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>3fe6bc56-f45b-4aef-a3f5-ebd7311724ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

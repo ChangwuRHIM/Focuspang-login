@@ -25,7 +25,7 @@ WebUI.click(findTestObject('Object Repository/quiz_make/Page_focuspang ai for te
 
 WebUI.click(findTestObject('Object Repository/quiz_make/Page_focuspang ai for teacher/quizset_card_QUIZ'))
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.setText(findTestObject('Object Repository/quiz_make/Page_focuspang ai for teacher/quiz_header_input_filed'), '자동화')
 

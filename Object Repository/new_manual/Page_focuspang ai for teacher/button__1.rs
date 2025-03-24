@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button__1_2_3_4</name>
+   <name>button__1</name>
    <tag></tag>
-   <elementGuidId>0152fc0b-b28e-45ad-b834-e62fdd210ff9</elementGuidId>
+   <elementGuidId>594e4d0d-f8a5-4bad-a133-089bb2f73f97</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@data-testid = 'close-button']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
-         <value>button.chakra-button.css-1749gbk</value>
+         <value>button.chakra-button.css-mhxgfw</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;chakra-modal-:r8l:&quot;]/footer/div/div/div/div[2]/button</value>
+         <value>(//button[@type='button'])[4]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;focuspang-lg-notice-close-button&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -27,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e43e147b-608b-4fe7-b694-d5974041c85b</webElementGuid>
+      <webElementGuid>9226710e-d336-4cb1-a7cb-7c91aed7bdcc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -35,102 +37,94 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>575a774d-4ba3-4583-857b-99d0c63334ab</webElementGuid>
+      <webElementGuid>0cdaa5d1-57d5-4cec-971b-ff812bc4301b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>chakra-button css-1749gbk</value>
-      <webElementGuid>dc9d48af-9ee1-4b39-8e5a-e618bd38ce81</webElementGuid>
+      <value>chakra-button css-mhxgfw</value>
+      <webElementGuid>db30e273-cb24-4140-ad5b-e5c19e8b276d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-testid</name>
       <type>Main</type>
-      <value>close-button</value>
-      <webElementGuid>13c8bbf4-732b-4a96-bbe6-298952f5742a</webElementGuid>
+      <value>focuspang-lg-notice-close-button</value>
+      <webElementGuid>d248be57-a8d9-46b3-8a92-0f8587394524</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> 전체화면 닫기</value>
-      <webElementGuid>d9704753-108c-48d0-b50c-698b0c238b0c</webElementGuid>
+      <value>닫기</value>
+      <webElementGuid>17f1766e-bd5c-41b6-af0e-07c06110d92c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;chakra-modal-:r3c:&quot;)/footer[@class=&quot;chakra-modal__footer css-bxbe2i&quot;]/div[@class=&quot;chakra-stack css-13uls06&quot;]/div[@class=&quot;css-1de9ey7&quot;]/div[@class=&quot;chakra-stack css-1nkbehs&quot;]/div[@class=&quot;chakra-stack css-1igwmid&quot;]/button[@class=&quot;chakra-button css-1749gbk&quot;]</value>
-      <webElementGuid>622f550c-4afa-4f75-bc07-53f72d8cba80</webElementGuid>
+      <value>id(&quot;chakra-modal--body-:R3afninknqfja:&quot;)/footer[@class=&quot;chakra-modal__footer css-16ltw6x&quot;]/div[@class=&quot;chakra-stack css-11ehgu5&quot;]/button[@class=&quot;chakra-button css-mhxgfw&quot;]</value>
+      <webElementGuid>79933208-c238-42db-b62b-cd3f32a54cea</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[9]</value>
-      <webElementGuid>d981ad1a-a89c-43d4-8043-5407435a1349</webElementGuid>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>4b0263d1-f2b1-40ae-badc-150db9e1fa9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='chakra-modal-:r3c:']/footer/div/div/div/div[2]/button</value>
-      <webElementGuid>d416c9cb-8ef9-4a8b-96f6-bc113c6c3fa2</webElementGuid>
+      <value>//div[@id='chakra-modal--body-:R3afninknqfja:']/footer/div/button</value>
+      <webElementGuid>68e2cfe0-54b1-417e-be35-a4d8ba0eaab9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='로그아웃'])[1]/following::button[3]</value>
-      <webElementGuid>8ff18cbe-0674-4374-bd17-141b3f6351ac</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='다시 보지 않기'])[1]/following::button[1]</value>
+      <webElementGuid>9d5d692b-4f8a-411c-b62a-fe7279b6ccf7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='설정'])[1]/following::button[4]</value>
-      <webElementGuid>f1ec59ea-cde8-4cdf-9e35-9ce5c34353f3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='기기 부팅 후 일정 시간이 지나면 꺼지며 Android 팩토리 모드로 진입하는 현상'])[1]/following::button[1]</value>
+      <webElementGuid>27b5799c-c14f-4646-8d6b-31bc6d70b1d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='포커스타임 시간을 줄입니다.'])[1]/preceding::button[1]</value>
-      <webElementGuid>92185cb8-b08b-4a1f-b88f-63af351c820b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='전체화면 닫기']/parent::*</value>
-      <webElementGuid>eaa55ecb-709c-479c-94ce-de5aac8e0312</webElementGuid>
+      <value>//*/text()[normalize-space(.)='닫기']/parent::*</value>
+      <webElementGuid>027f2af9-0ba1-4f02-8254-503041843a34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//footer/div/div/div/div[2]/button</value>
-      <webElementGuid>a6a350dc-e905-4eb9-b169-9815745309ec</webElementGuid>
+      <value>//footer/div/button</value>
+      <webElementGuid>c23b68fc-4887-4f77-bd57-dbe57a72620b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@data-testid = 'close-button']</value>
-      <webElementGuid>63e9e49e-eb92-437a-85e0-2453c97a242c</webElementGuid>
+      <value>//button[@data-testid = 'focuspang-lg-notice-close-button']</value>
+      <webElementGuid>682c257b-4612-4b8f-aa84-e97f9a2c4a28</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

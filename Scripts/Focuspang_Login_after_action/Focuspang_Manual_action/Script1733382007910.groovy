@@ -19,19 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Teacher loin,logout/Focuspang_teacher_login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Manual/Manual_button'))
+WebUI.click(findTestObject('Object Repository/new_manual/Manual/Manual_button'))
 
-WebUI.switchToWindowTitle('focuspang ai 3.0')
+WebUI.switchToWindowTitle('1.1 특징 | focuspang ai guide')
 
-WebUI.click(findTestObject('Object Repository/Manual/a_English'))
+WebUI.click(findTestObject('Object Repository/new_manual/Page_1.1   focuspang ai guide/button__clean-btn menu__caret'))
 
-WebUI.click(findTestObject('Object Repository/Manual/a_Indonesian'))
-
-WebUI.click(findTestObject('Object Repository/Manual/i_Kami sedang mempersiapkan pelayanan dalam_910166'))
-
-WebUI.click(findTestObject('Object Repository/Manual/a_Japanese'))
-
-WebUI.click(findTestObject('Object Repository/Manual/i__fa-solid fa-angle-left'))
-
-WebUI.click(findTestObject('Object Repository/Manual/a_Korean'))
+WebUI.click(findTestObject('Object Repository/new_manual/Page_1.1   focuspang ai guide/button__clean-btn menu__caret_1'))
 

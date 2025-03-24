@@ -13,6 +13,10 @@
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='공지할 반 추가하기'])[1]/following::p[1]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-placeholder = '내용을 입력해주세요.']</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -23,15 +27,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>2728dd45-9622-44cf-9b6b-8af30a900e71</webElementGuid>
+      <webElementGuid>9a349d60-cccf-4677-8c1f-80f99d92db26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;__className_d65c78 chakra-ui-light&quot;]/div[@class=&quot;css-wrghvn&quot;]/div[@class=&quot;chakra-container css-10wiq0h&quot;]/div[@class=&quot;css-1mc2bby&quot;]/div[@class=&quot;css-10ft286&quot;]/div[@class=&quot;chakra-container css-w8e4xc&quot;]/div[@class=&quot;chakra-stack css-153vwuu&quot;]/div[@class=&quot;chakra-container css-1voosvd&quot;]/div[@class=&quot;chakra-stack css-1811skr&quot;]/div[@class=&quot;quill w-full  bg-white mb-4&quot;]/div[@class=&quot;ql-container ql-snow&quot;]/div[@class=&quot;ql-editor ql-blank&quot;]/p[1]</value>
-      <webElementGuid>62e7684a-a238-4a04-a2af-3166be2a1db9</webElementGuid>
+      <webElementGuid>9f12f7a3-7071-4fa1-a605-2692e5302a76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placeholder</name>
+      <type>Main</type>
+      <value>내용을 입력해주세요.</value>
+      <webElementGuid>e80c72a1-1588-451a-94fb-7274ed7747a6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -39,7 +51,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='공지할 반 추가하기'])[1]/following::p[1]</value>
-      <webElementGuid>e65290e8-f936-4ba8-a64f-ecf4a39c772d</webElementGuid>
+      <webElementGuid>785cdc96-5aa8-478d-a882-046d872a0227</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -47,7 +59,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[1]/preceding::p[1]</value>
-      <webElementGuid>8b404da3-d6e8-483c-88e8-715043af702c</webElementGuid>
+      <webElementGuid>9ff5cf8c-fb0a-48ff-b95d-d7b8f4ae6c4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +67,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='등록'])[1]/preceding::p[1]</value>
-      <webElementGuid>cefb44ef-0a0b-4be9-8b2d-343a7356632f</webElementGuid>
+      <webElementGuid>5f36c9a2-2dc5-4775-be28-a04f4793b2b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,6 +75,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div/p</value>
-      <webElementGuid>313ca02d-3662-4035-bb2a-fa0c72d44841</webElementGuid>
+      <webElementGuid>927d50b9-609c-4e47-a0ef-8c6fc9f8c84c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
